@@ -1,10 +1,17 @@
 # Free as in Freedom.
 
+You probably heard that one before because it was never new and it never gets old and its a folk song...
+— LLewyn Davis
+
 I have been teaching a class called Special Topics in Graphic Design: Open Source.
 
 We keep a special class on the books at the Maryland Institute College of Art called "Special Topics in Graphic Design." Its there so if something catches a professors interest they can easily run one experimental section o fit without having to go through the rigamarole of adding a new class to the books...
 
+Dave crossland at mica. google fonts. started a conversation about his background in open source and how that might have an effect on graphic designing. I asked him if he thought that using scribus and inkscape on linux led to different aesthetic or functional choices as a designer...
+
 GNU?
+
+The catherdral and the bazaar
 
 Class structure: based on some
 
@@ -36,9 +43,17 @@ why not linux?
 
 Nodebox is an interesting example of a toll that perhaps has one of the more intuitive interfaces I've used period. The normal rub against open source tools is taht the UI design is a nightmare. This is sort of a double strike against them from the point of view of a designer?
 
-this isn't an old song, this isn't a new song, its a folk song...
 
 »»»»»»»»»
+
+Open Source Design
+
+Brief:
+What do the tools and ethos from Free/Libre/Open Source (FLOS) communities bring to a visual designer's education and praxis?
+
+500 Word Abstract:
+
+Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This article's goal is to present the root ideals of the free/libre/open source software movements, and then apply them to the making of graphic design. Part of the paper covers the use of open source design tools, analyzing their pros and cons when compared to typical “industry-standard” making methods. This paper also presents how the research, discussions, interviews, experiments, and work/output of the course “Open Source Design” (running Jan-May 2018) changes the ways a designer envisions their practice and methods of making. The paper utilizes the author's own work and research, work and research from the FLOSS community, as well as content created by their students to support the arguments. The way one works with FLOSS tools and ideals creates different systems, processes, methodologies, and aesthetics. The works of the author and their students provide interesting visual and code-based examples to help answer and illustrate this. Questions being answered: What does “Open Source” mean in a Graphic Design context? How do visual designers help to iterate & improve these tools without the ability to code? How do non-mainstream tools change how we make graphic design? How do our design processes evolve & maintain transparency the same way open source communities & projects do? What do accessibility, transparency, and “freedom” bring aesthetically to visual design solutions?
 
 Reviewer 1
 Been waiting for this.
