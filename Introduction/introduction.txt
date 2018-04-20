@@ -1,0 +1,53 @@
+# Free as in Freedom.
+
+I have been teaching a class called Special Topics in Graphic Design: Open Source.
+
+We keep a special class on the books at the Maryland Institute College of Art called "Special Topics in Graphic Design." Its there so if something catches a professors interest they can easily run one experimental section o fit without having to go through the rigamarole of adding a new class to the books...
+
+GNU?
+
+Class structure: based on some
+
+What is the purpose of design? How does it change with Open Source?
+
+You often don't understand a problem until after the first time you implement a solution. If you want to get it right, be ready to start over at least once. How might one do this with their design practice? How about tools?
+
+What are benefits of using open source tools? Why would a designer open source their visual materials?
+
+Can code generate out design in a meaningful way?
+
+What have I learned? what have we learned? what did we talk about?
+
+Is there something aesthetically important we can learn from open source?
+
+Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected
+
+do graphic deigners make tools or just use tools
+
+read and discuss stallman, raymond, and some other typical open source writings, also look at designers working in the realm of vernacular, DIY, etc.
+
+Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This article's goal is to present the root ideals of the free/libre/open source software movements, and then apply them to the making of graphic design. Part of the paper covers the use of open source design tools, analyzing their pros and cons when compared to typical “industry-standard” making methods.
+
+
+
+Questions being answered: What does “Open Source” mean in a Graphic Design context? How do visual designers help to iterate & improve these tools without the ability to code? How do non-mainstream tools change how we make graphic design? How do our design processes evolve & maintain transparency the same way open source communities & projects do? What do accessibility, transparency, and “freedom” bring aesthetically to visual design solutions?
+
+Why not inkscape?
+Why not scribus?
+why not linux?
+
+Nodebox is an interesting example of a toll that perhaps has one of the more intuitive interfaces I've used period. The normal rub against open source tools is taht the UI design is a nightmare. This is sort of a double strike against them from the point of view of a designer?
+
+»»»»»»»»»
+
+Reviewer 1
+Been waiting for this.
+The proposal poses some interesting questions. Specifically, these broad and philosophical questions are located in paragraph 1. In paragraph 2, the proposal falls flat. I would recommend to the author, that s/he focus on addressing the questions raised in the first paragraph. If the paper simply becomes a write-up of the teaching experience, it will essentially retread many ideas and experiences that all faculty have already had in the classroom. The paper has the potential to be more provocative is it deals with the issues of "reuse," "accessibility," "transparency," "tools and ideas," et al. than if it becomes a reporting of a classroom experience.
+
+Reviewer 2
+Another hot topic that seems to be arising quickly with ever changing technology.
+I attended design conferences just last year and haven't heard this topic being discussed in a Design-Ed environment. I would be very interested to see how this open source softwares are integrated into the classroom.
+
+Reviewer 3
+Very thorough, supports how all claims will be executed and discussed. It is very clear what will take place during this presentation.
+I'm sure there are concrete examples of how you use this software in both the presentation and paper, but I would suggest perhaps including sample assignments as well to illustrate how to effectively implement these FLOSS programs into the classroom.
