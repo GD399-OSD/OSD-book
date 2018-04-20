@@ -22,13 +22,11 @@ Is there something aesthetically important we can learn from open source?
 
 Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected
 
-do graphic deigners make tools or just use tools
+do graphic designers make tools or just use tools
 
 read and discuss stallman, raymond, and some other typical open source writings, also look at designers working in the realm of vernacular, DIY, etc.
 
 Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This article's goal is to present the root ideals of the free/libre/open source software movements, and then apply them to the making of graphic design. Part of the paper covers the use of open source design tools, analyzing their pros and cons when compared to typical “industry-standard” making methods.
-
-
 
 Questions being answered: What does “Open Source” mean in a Graphic Design context? How do visual designers help to iterate & improve these tools without the ability to code? How do non-mainstream tools change how we make graphic design? How do our design processes evolve & maintain transparency the same way open source communities & projects do? What do accessibility, transparency, and “freedom” bring aesthetically to visual design solutions?
 
@@ -37,6 +35,8 @@ Why not scribus?
 why not linux?
 
 Nodebox is an interesting example of a toll that perhaps has one of the more intuitive interfaces I've used period. The normal rub against open source tools is taht the UI design is a nightmare. This is sort of a double strike against them from the point of view of a designer?
+
+this isn't an old song, this isn't a new song, its a folk song...
 
 »»»»»»»»»
 
