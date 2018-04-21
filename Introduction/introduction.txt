@@ -43,6 +43,13 @@ why not linux?
 
 Nodebox is an interesting example of a toll that perhaps has one of the more intuitive interfaces I've used period. The normal rub against open source tools is taht the UI design is a nightmare. This is sort of a double strike against them from the point of view of a designer?
 
+From a variety of places, I arrived at experimenting w some alternative tools to the adobe creative suite. I had a raspberry pi sitting unused leftover from a previous project and thought I might try actually using linux to do some design work of my own. Not to much later, David Crossland of Google Fonts visited our graphic design department at MICA and after finding out about his background in the libre graphics community ended up having a conversation with him about my ideas re: alternative, open tools… anyway, a class was born.
+
+Since January I have been running a new course experiment at the Maryland Institute College of Art: Open Source Design.
+
+I've had a lot of experience with open source communities on the web — I was a Drupal user fairly early on, have tried all sorts of CSS frameworks, and contemporary javascript plugins — but had never really tried to use linux to run anything other than a server, nor gave any of the desktop tools a real go. Personally and pedagogically I was interested in giving some things a go.
+
+
 
 »»»»»»»»»
 
