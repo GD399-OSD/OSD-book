@@ -180,6 +180,37 @@ F/LOSS encourages a mindset of bringing together disparate sources to make somet
 
 Arguments against open design include that the process itself isn't clear, there aren't easy objective measurements of success (like a function works or it doesn't, a design is sort of subjective in this regard...)
 
+Is the accessiblity of a tool at issue? is the accessibility a problem?
+
+does just showing content/process/files/etc. count as open design?
+
+open source = recursive?
+
+OSD represents and emerging form of infrastructure that, at its heart, enbale non-hierarchical community sourced collaboration?
+
+OSD is rooted in vernacular techniques. Sharing, iterating, copying whatever works best was what allowed communities to develop effective tools, clothing, shelter, objects, etc. A similar set of practices, more or less everywhere, allowed for forms to slowly iterate, progress, improve, disperse, but still to generate local flavor and specialization. Aesthetics, materials, decoration, forms are able to grow and evolve based on specific locations, but the general idea of iterative, open, designs was the way pretty much all cultures "designed" in the past. Succesful techniques were discovered to address local environmental conditions in an economic, reliable, easily duplicable manner.
+
+Interset in this verancular approach began to surface within communities of computer scientists (this was also how scientific knowledge often is shared and grows) … this became (and is called variously) F/LOS: Free, Libre, Open Source...............
+
+Equal parts pragamtism and utopia...
+
+Values opennes, innovation, viability over profit.
+
+Premised on the practices of sharing and increasing knowledge
+
+Focus is not on the development of commodity, but on addressing the needs of community members through continuous user-sourced feedback and iteration.
+
+Firefox Photon Design system? Solve a problem that others won't because some design decisions/bug finding comes from the community. (firefox best at screen reader friendly stuff, etc.)
+
+As designers we can integarate open principles into our practices simply by being more transparent and sharing more... sharing assets, data, visual components, processes... By making generosity a key component of practice, designers can build a rich ecosystem of collaboration and inspiration.
+
+designers can choose to use open source tools like Scribus or Fontforge. Free to modify their tools, open source designers have the power to change the aesthetic mode of production. This is particularly important because, as Fredric Jameson writes in _Postmodernisn, or The Cultural Logic of Late Capitalism_, because, “[a]esthetic production has become integrated into commodity production.” By using open source tools, designers can reclaim autonomy and authorship. [potential connection with Dunne/Raby, Mari, and the modernsim is bad conversation our class had]
+
+Still, the boundaries that define open source design are difficult to articulate. For some designers, the OSD approach may entail the use of open source programs such as Sketch or Scribus. For others, it may mean designing a custom GitHub page for a worthy piece of open source software. Still for others it may mean sharing resources, process, and knowledge. However, most examples of open source design, such as Mozilla’s Photon Design, remain directly connected to the world of open source software. While the infrastructure of open source software has been intentionally developed,open source design is a practice still in its infancy, and lacks an effective platform to leverage the power of the community.
+
+Participation in the open source community can cause radical shifts in design thinking, forcing dialogue into practice and problematizing tools often taken for granted. In the end, this may be the most significant advantage of open source design. As Enzo Mari writes in Autoprogettazione, building your own tools is the "best way to avoid being designed yourself." If everyone is given the opportunity to shape these tools, perhaps it is possible to design in a way which is responsive to the needs of the many, filling vital roles through user engagement. This not only guarantees greater inclusivity and accessibility, but represents a fundamental shift away from the capitalist mindset.
+
+Am i really this much of a communist? In my thinking about sustainability, I've been moving towards the idea that my tools are incorrect. Adobe's creative suite is a creation of a modernist/capitalist system that is creating the sustainablity issues. If this is the case, only another set of tools should be supported. Is that where the OS stuff comes in? That's where it started for me — fonts — open fonts seemed more sustainable and egalitarian. From there I've moved towards more instrinsically open tools. I've been trying to make the way I work more transparent as well. 
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
