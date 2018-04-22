@@ -210,7 +210,89 @@ Still, the boundaries that define open source design are difficult to articulate
 
 Participation in the open source community can cause radical shifts in design thinking, forcing dialogue into practice and problematizing tools often taken for granted. In the end, this may be the most significant advantage of open source design. As Enzo Mari writes in Autoprogettazione, building your own tools is the "best way to avoid being designed yourself." If everyone is given the opportunity to shape these tools, perhaps it is possible to design in a way which is responsive to the needs of the many, filling vital roles through user engagement. This not only guarantees greater inclusivity and accessibility, but represents a fundamental shift away from the capitalist mindset.
 
-Am i really this much of a communist? In my thinking about sustainability, I've been moving towards the idea that my tools are incorrect. Adobe's creative suite is a creation of a modernist/capitalist system that is creating the sustainablity issues. If this is the case, only another set of tools should be supported. Is that where the OS stuff comes in? That's where it started for me — fonts — open fonts seemed more sustainable and egalitarian. From there I've moved towards more instrinsically open tools. I've been trying to make the way I work more transparent as well. 
+Am i really this much of a communist? In my thinking about sustainability, I've been moving towards the idea that my tools are incorrect. Adobe's creative suite is a creation of a modernist/capitalist system that is creating the sustainability issues. If this is the case, only another set of tools should be supported. Is that where the OS stuff comes in? That's where it started for me — fonts — open fonts seemed more sustainable and egalitarian. From there I've moved towards more intrinsically open tools. I've been trying to make the way I work more transparent as well.
+
+Every good piece of software starts by scrathcing a developer's personal itch. How can this be a design system instead????
+
+Good Programmers know what to write. Great programmers know what to rewrite and reuse. How might we reuse design patterns? design solutions? visual metaphors?
+
+Or, to put it another way, you often don't really understand the problem until after the first time you implement a solution. The second time, maybe you know enough to do it right. So if you want to get it right, be ready to start over at least once. How to do this with design generally? Is this just the regular creative process? is that why release early and often works? What am I working on that I can redo better now? what would be advantaged from a complete restart?
+
+If you are a designer and a lot of the users of your tools/designs are also designers, what benefits do you get by talking to the users more often?
+
+How to treat users as co-designers to find the least hassle route to design improvement and effective problem/gap identification?
+
+Whats the equivalent in a visual system for "release early and release often?"
+
+Can code generate out a design in meaningful ways???
+
+We generally work in design in the cathedral model: toiling away endlessly in the background for the one perfect release. More and faster output = better in open source programming, why not in open designing? less≠more in this context!
+
+Given enough eyeballs all bugs are shallow: what's the design version of this statement in my work (in academia?)
+
+the person who understands a problem is not necessarily or even usually the person that finds the problem first.
+
+One special feature of the Linux situation that clearly helps along the Delphi effect is the fact that the contributors for any given project are self-selected. An early respondent pointed out that contributions are received not from a random sample, but from people who are interested enough to use the software, learn about how it works, attempt to find solutions to problems they encounter, and actually produce an apparently reasonable fix. Anyone who passes all these filters is highly likely to have something useful to contribute. — TCATB
+
+One effect of a ``release early and often'' policy is to minimize such duplication by propagating fed-back fixes quickly — TCATB
+
+11. The next best thing to having good ideas is recognizing good ideas from your users. Sometimes the latter is better.
+
+12. Often, the most striking and innovative solutions come from realizing that your concept of the problem was wrong.
+
+When you hit a wall in development—when you find yourself hard put to think past the next patch—it's often time to ask not whether you've got the right answer, but whether you're asking the right question. Perhaps the problem needs to be reframed.
+
+13. ``Perfection (in design) is achieved not when there is nothing more to add, but rather when there is nothing more to take away.'' — Can a more open systems help graphic designers with this too???
+
+I think you can't really aim or plan for a result like this. You have to get pulled into it by design ideas so powerful that afterward the results just seem inevitable, natural, even foreordained. The only way to try for ideas like that is by having lots of ideas—or by having the engineering judgment to take other peoples' good ideas beyond where the originators thought they could go.
+
+Neither of us was original in the romantic way people think is genius...
+
+14. Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected. — for sure applicable, but what is a tool? do graphic designers make tools or just use tools?
+
+It's fairly clear that one cannot code from the ground up in bazaar style. One can test, debug and improve in bazaar style, but it would be very hard to originate a project in bazaar mode. Linus didn't try it. I didn't either. Your nascent developer community needs to have something runnable and testable to play with.
+
+When you start community-building, what you need to be able to present is a plausible promise. Your program doesn't have to work particularly well. It can be crude, buggy, incomplete, and poorly documented. What it must not fail to do is (a) run, and (b) convince potential co-developers that it can be evolved into something really neat in the foreseeable future.
+
+I think it is not critical that the coordinator be able to originate designs of exceptional brilliance, but it is absolutely critical that the coordinator be able to recognize good design ideas from others.
+
+But the problem with being clever and original in software design is that it gets to be a habit—you start reflexively making things cute and complicated when you should be keeping them robust and simple. I have had projects crash on me because I made this mistake, but I managed to avoid this with fetchmail.
+
+I restrained my tendency to be clever
+
+A bazaar project coordinator or leader must have good people and communications skills.
+
+The Social Context of Open-Source Software: 18. To solve an interesting problem, start by finding a problem that is interesting to you.
+
+in shops where developers are not territorial about their code, and encourage other people to look for bugs and potential improvements in it, improvement happens dramatically faster than elsewhere. This seems to be the important part of openness, it doesn't even have to be super broad — just sharing and not being ego-driven is what's important?
+
+from TCATB: while coding remains an essentially solitary activity, the really great hacks come from harnessing the attention and brainpower of entire communities. The developer who uses only his or her own brain in a closed project is going to fall behind the developer who knows how to create an open, evolutionary context in which feedback exploring the design space, code contributions, bug-spotting, and other improvements come from from hundreds (perhaps thousands) of people. Brian eno says basically this same thing in his conversation with Bjarke... reference both???
+
+adaptive systems in biology and economics also irresistably suggest themselves
+
+like a free market or an ecology, a collection of selfish agents attempting to maximize utility which in the process produces a self-correcting spontaneous order more elaborate and efficient than any amount of central planning could have achieved
+
+start from individual vision and brilliance, then amplify it through the effective construction of voluntary communities of interest.
+
+±±±±
+
+A key issue in understanding — online in documents I found, with people I talked too, and in my students in the classroom — what that open design meant co-designing. I think this is not true. A design, to be good, needs strong initial vision and planning and theorizing. So, it would probably still start with an individual need or vision and spark of creative brilliance, but be amplifyied through the ideals expoused by Stallman, Raymond, et. al.: Openess, transparency, etc.
+
+±±±±
+
+The success of the open-source community sharpens this question considerably, by providing hard evidence that it is often cheaper and more effective to recruit self-selected volunteers from the Internet than it is to manage buildings full of people who would rather be doing something else. Okay, so is this then also a way to run a design studio???
+
+the moment there is open-source competition for a `boring' piece of software, customers are going to know that it was finally tackled by someone who chose that problem to solve because of a fascination with the problem itself—which, in software as in other kinds of creative work, is a far more effective motivator than money alone. Okay! so is this a good reason to use open source/free/libre tools?
+
+Human beings generally take pleasure in a task when it falls in a sort of optimal-challenge zone; not so easy as to be boring, not too hard to achieve. A happy programmer is one who is neither underutilized nor weighed down with ill-formulated goals and stressful process friction. Enjoyment predicts efficiency. Again, how does this relate to designing? And isn't this Marxist in its view? is that bad? is that what draws me to all of this, its being at odds with capitalist impulses?
+
+±±±±
+
+## Autoprogettazione:
+
+
+
+
 
 ±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±±
 
@@ -225,7 +307,7 @@ Still need dates, authors, etc. and to format according to CMOS.
 - On being a Unicorn: the case for user-involvement in F/LOSS, libre graphics 1.2
 - Designing Open Source: https://medium.com/words-about-design/designing-open-source-e3adc220cfa7
 - This is the first day of the rest of my life, Eric Schrijver, libre graphics 1.1
-
+- The Catehdral and the Bazaar, Eric Raymond, This is version 3.0, Copyright © 2000 Eric S. Raymond, http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
 
 »»»»»»»»»
 
