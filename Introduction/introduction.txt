@@ -1,6 +1,22 @@
 # Free as in Freedom.
 
-How can you make open source more interesting to regular people, not just designers? Do people have any idea what open source is? Is it different than DIY? 
+How can you make open source more interesting to regular people, not just designers? Do people have any idea what open source is? Is it different than DIY?
+
+Is open source eliteist?
+
+Open source is socialized means of production — which means you often have to help make your own shit. This isn't always what people want/can do?
+
+If you think of 20000 years ago you had to be a real individual — you had to find and make your own food, construct your own shelter, etc. Now you don't need that you can get away with only knowing how to be a musician... the collective brain we have is gigantic, other people can know how to do all these other things, and I can just play music...
+
+A hand axe can be created by a single individual, any modern thing, like a computer mouse or most software, no one person can create anymore. Distribution of labor and collaboration allow for gigantic things like building cathedrals or traveling to other worlds.
+
+Why would a smart person become a designer? Instead of being a arch-librarian governing eternal truth, the philosopher became a creative thinker that invented new concepts that we could use to advance our lives and society.
+
+Pragmatic utopia: Imagine the world the way you wish it was, and then you actually sit down and try to build it that way.
+
+Can I design the design that belongs to the time/space/world that I want to live in? if it doesn't exist already around you then you have to make the objects to help grow the future you want around those designs.
+
+find yourself in places that you didn't intend to be. New, different, strange, tools from other places, these can allow for this in ways that "regular" or "main stream" tools cannot.
 
 You probably heard that one before because it was never new and it never gets old and its a folk song... — LLewyn Davis
 
@@ -310,6 +326,7 @@ Still need dates, authors, etc. and to format according to CMOS.
 - Designing Open Source: https://medium.com/words-about-design/designing-open-source-e3adc220cfa7
 - This is the first day of the rest of my life, Eric Schrijver, libre graphics 1.1
 - The Catehdral and the Bazaar, Eric Raymond, This is version 3.0, Copyright © 2000 Eric S. Raymond, http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
+- Brian Eno and Bjarke Ingels Instruments of Change, youtube video...
 
 »»»»»»»»»
 
