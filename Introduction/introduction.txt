@@ -38,7 +38,7 @@ You can do this in different ways.
 
 There are tools that do things that no adobe thing does (nodebox) …
 
-
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
 If you think of 20000 years ago you had to be a real individual — you had to find and make your own food, construct your own shelter, etc. Now you don't need that you can get away with only knowing how to be a musician... the collective brain we have is gigantic, other people can know how to do all these other things, and I can just play music...
 
@@ -264,6 +264,8 @@ Participation in the open source community can cause radical shifts in design th
 
 Am i really this much of a communist? In my thinking about sustainability, I've been moving towards the idea that my tools are incorrect. Adobe's creative suite is a creation of a modernist/capitalist system that is creating the sustainability issues. If this is the case, only another set of tools should be supported. Is that where the OS stuff comes in? That's where it started for me — fonts — open fonts seemed more sustainable and egalitarian. From there I've moved towards more intrinsically open tools. I've been trying to make the way I work more transparent as well.
 
+>>> TCATB
+
 Every good piece of software starts by scrathcing a developer's personal itch. How can this be a design system instead????
 
 Good Programmers know what to write. Great programmers know what to rewrite and reuse. How might we reuse design patterns? design solutions? visual metaphors?
@@ -314,7 +316,9 @@ I restrained my tendency to be clever
 
 A bazaar project coordinator or leader must have good people and communications skills.
 
-The Social Context of Open-Source Software: 18. To solve an interesting problem, start by finding a problem that is interesting to you.
+The Social Context of Open-Source Software:
+
+18. To solve an interesting problem, start by finding a problem that is interesting to you.
 
 in shops where developers are not territorial about their code, and encourage other people to look for bugs and potential improvements in it, improvement happens dramatically faster than elsewhere. This seems to be the important part of openness, it doesn't even have to be super broad — just sharing and not being ego-driven is what's important?
 
@@ -325,6 +329,8 @@ adaptive systems in biology and economics also irresistably suggest themselves
 like a free market or an ecology, a collection of selfish agents attempting to maximize utility which in the process produces a self-correcting spontaneous order more elaborate and efficient than any amount of central planning could have achieved
 
 start from individual vision and brilliance, then amplify it through the effective construction of voluntary communities of interest.
+
+>>> end TCATB
 
 ±±±±
 
@@ -362,6 +368,9 @@ Still need dates, authors, etc. and to format according to CMOS.
 - The Catehdral and the Bazaar, Eric Raymond, This is version 3.0, Copyright © 2000 Eric S. Raymond, http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
 - Brian Eno and Bjarke Ingels Instruments of Change, https://www.youtube.com/watch?v=aBG8t6jDWuA
 - Brian Eno on Genius, and “Scenius”: http://www.synthtopia.com/content/2009/07/09/brian-eno-on-genius-and-scenius/
+- Havoc Pennington, Free Software UI, April 2002, http://ometer.com/free-software-ui.html (accessed 2018-04-22)
+
+— https://www.are.na/kristian-bjornard/free-libre-open-design
 
 »»»»»»»»»
 
