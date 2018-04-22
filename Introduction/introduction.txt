@@ -1,19 +1,12 @@
 # Free as in Freedom.
 
-You probably heard that one before because it was never new and it never gets old and its a folk song...
-— LLewyn Davis
+You probably heard that one before because it was never new and it never gets old and its a folk song... — LLewyn Davis
 
 I have been teaching a class called Special Topics in Graphic Design: Open Source.
 
 We keep a special class on the books at the Maryland Institute College of Art called "Special Topics in Graphic Design." Its there so if something catches a professors interest they can easily run one experimental section o fit without having to go through the rigamarole of adding a new class to the books...
 
 Dave crossland at mica. google fonts. started a conversation about his background in open source and how that might have an effect on graphic designing. I asked him if he thought that using scribus and inkscape on linux led to different aesthetic or functional choices as a designer...
-
-GNU?
-
-The catherdral and the bazaar
-
-Class structure: based on some
 
 What is the purpose of design? How does it change with Open Source?
 
@@ -49,7 +42,96 @@ Since January I have been running a new course experiment at the Maryland Instit
 
 I've had a lot of experience with open source communities on the web — I was a Drupal user fairly early on, have tried all sorts of CSS frameworks, and contemporary javascript plugins — but had never really tried to use linux to run anything other than a server, nor gave any of the desktop tools a real go. Personally and pedagogically I was interested in giving some things a go.
 
+Stallman, GNU, cathedral and the bazaar, enzo mari's auto progettazione, DIYer counter culture 60s,70s, etc. stuff?
 
+Are we limited by our tools?
+
+Are we teaching students to use Adobe Creative Suite, or are we teaching them to be designers? How might alternative tools work better pedagogically in this goal?
+
+The Adobe creative suite is a outcome of Contemporary capitalism and contemporary aesthetic modernism (becoming the new global styles instead, sort of neo-avant-modernism)
+
+Stallman's main ideal is "Free and in Freedom." He didn't want to be limited by how or what he could do with the programming tools he was using. The mythology basically goes is that he gets frustrated with a printer, writes some new code for the print driver since he had the source code, but when the next version of the printer comes out it has the same problem but now xerox won't share the code so that he can fix it. This makes him so mad he walks out, quits his job at MIT, and writes the GNU manifesto … From then on focusing on free software (and literally living in his office at MIT still despite no longer officially working there [that's what having ideals gets you???]).
+
+The gist of "free as in freedom" is multi-fold:
+1. Free means that you have access to the under the hood raw materials and can tinker, fix, change, etc. at your will.
+1. Free also means that your improvements, changes, whatever can and should also then be shareable/redistributable
+1. It does not imply free as in no cost... Since the access to the source code is free, this is often the case, but it is not the intention.
+
+Reading the _GNU manifesto_ and _the Cathedral and the Bazaar_ (as well as a handful of other new and old open-source/libre/free software related stuff) reminded me of an architecture book I frequently return to, _How Buildings Learn_ by Stewart Brand. Brand explains various ways that vernacular buildings work and learn from each other over time. Pulling from Eric Raymond's points in TCATB and some of Stallman's freedoms yields a number of similarities: releasing early and often, that the "design" is communal and open (no one owns the design?), bug fixes come from the community at large (see the housing addition diagrams?), and successes are moved forward while failures are removed over time, things are often modular, people solve their problems first which often end up being other people's problems...
+
+Also from brand, the whole earth catalog.
+
+The whole ecosystem of the whole earth catalog and the other sort of DIY, counter culture things from the 60s and 70s. Enzo Mari's Autoprogettazione, How to Build your own Living Structures, Nomadic Furniture, etc.
+
+Open source as utopia?
+
+What's humourous about all of this is that Design was historically open source... Life/Humanity has always evolved and grown based on slowly and building on whatever came before without worry of credit or cost or whatever else... That we need something like open source now is slightly amusing — Wanting to carefully protect our intellectual or creative "properties" is a fairly new ideal. Perhaps its connected to the fairly modern idea of artist/designer as unique, special, individual creator/solver of problems?? Capitalism of course needs to be able to make money off these things... so that is part of the rub too. But, "Open Source" still works in capitalism (see RedHat, or Acquia as examples — selling support and other services, etc. built on top of an otherwise free tool (Redhat mainly sells support for its linux distributions, Acquia sells support and specialized hosting for large Drupal websites)).
+
+Open Design is not about community sourced design decisions, there can still be a single originator of the design, someone with singular vision, etc. but it does imply that there is transparency. (look at Garth's thoughts for reference on this?)
+
+How does a designer fit into F/LOS?
+
+F/LOS — Free, Libre, Open Source — Free as in Freedom...
+
+The Four Freedoms:
+https://www.gnu.org/philosophy/free-sw.html
+
+The four essential freedoms
+A program is free software if the program's users have the four essential freedoms:
+
+The freedom to run the program as you wish, for any purpose (freedom 0).
+The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+The freedom to redistribute copies so you can help others (freedom 2).
+The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+A program is free software if it gives users adequately all of these freedoms. Otherwise, it is nonfree. While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.
+
+In any given scenario, these freedoms must apply to whatever code we plan to make use of, or lead others to make use of. For instance, consider a program A which automatically launches a program B to handle some cases. If we plan to distribute A as it stands, that implies users will need B, so we need to judge whether both A and B are free. However, if we plan to modify A so that it doesn't use B, only A needs to be free; B is not pertinent to that plan.
+
+“Free software” does not mean “noncommercial”. A free program must be available for commercial use, commercial development, and commercial distribution. Commercial development of free software is no longer unusual; such free commercial software is very important. You may have paid money to get copies of free software, or you may have obtained copies at no charge. But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.
+
+The Libre Designer.
+
+GNU's origins are in ethical utopia. Users are the same as neighbors, fellow citizens. We must apply our do unto others beliefs to the access and reuse of and extension of the tools we make, not just our person to person interactions.
+
+>>> start GNU references
+
+The GNU manifesto was originally written by Richard Stallman in 1985.
+
+The GNU project is part of the Free Software movement a campaing for freedom for users of software — Do not confuse Free Software with Open Source. Open Source was a term coined in 1998 by people who disagree with the Free Software Movement's ethical values. It promotes an amoral approach to the same field.
+
+"I consider that the Golden Rule requires that if I like a program I must share it with other people who like it." — stallman in GNU manifesto
+
+The fundamental act of friendship among programmers is the sharing of programs. The purchaser of software must choose between friendship and obeying the law. GNU serves as an example to inspire and a banner to rally others to join us in sharing.
+
+Once GNU is written, everyone will be able to obtain good system software free, just like air.
+
+wasteful duplication of system programming effort will be avoided.
+
+a user that needs to make changes to their system will always be free to make them.
+
+schools will be able to provide a much more educational environment by encouraging all students to study and improve the sytem code.
+
+Copying all or parts of a program is as natural to a programmer as breathing, and as productive. It ought to be as free.
+[does this sentence work if you replace program with design and programmer with designer??? — copying all or part of a design is as natural to a designer as breathing, and as productive. It ought to be as free.]
+
+distinguish between support in the form of real programming work and mere handholding.
+[the handholding is often missing in my personal experience]
+
+if anything desrves a reward it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results.
+
+There is nothing wrong with wanting to be paid for work or seeking to maximize one's income as long as one does not use means that are desctructive. The means customary in the field of software today are based on destruction. Restrictions reduce the amount and the ways that a program can be used. The reason a good citizen does not use such destructive means to become wealthier is that, if everyone did so, we would all become poorer from the mutual desctructiveness — this is Kantian ethics, or the Golden Rule. The desire to be rewarded for one's creativity does not justify depriving the world in general of all or part of that creativity.
+
+Control over the use of one's ideas really constitutes control over other epopel's lives; and it is usually used to make their lives more difficult.
+
+The intention was that nobody have to pay for permission to use gnu
+
+Distuinguish carefully between free in the sense of freedom and free in the sense of price. Free software is software users have the freedom to change and distribute.
+
+>>> end GNU references
+
+references
+The GNU Manifesto: https://www.gnu.org/gnu/manifesto.en.html
+The Four Essential Freedoms: https://www.gnu.org/philosophy/free-sw.html
 
 »»»»»»»»»
 
