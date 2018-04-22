@@ -1,10 +1,44 @@
 # Free as in Freedom.
 
+“The master’s tools will never dismantle the master’s house” — Audrey Lorde
+
+“… Capitalism must constantly ‘cool hunt’ and turn whatever is authentic and genuine into trends for consumption” — Micah White
+
 How can you make open source more interesting to regular people, not just designers? Do people have any idea what open source is? Is it different than DIY?
 
-Is open source eliteist?
+Is open source elitist?
 
-Open source is socialized means of production — which means you often have to help make your own shit. This isn't always what people want/can do?
+Open source is socialized means of production — which means you often have to help make your own shit. This isn't always what people want/can do? It is especially hard in regards to design: we are creators and problem solvers, but of often visual or physical things, not digital/code based things — especially not always of the actual tools of our design's productions (often working within a system — turn to printers for printing, typesetters/typographers for type, etc.)
+
+Does anyone here use Quark? do we all teach students Adobe Creative Cloud? We don't (I hope) all specify the same typefaces as right to use, we don't all use the same brand of pencil or notebook, we don't all read the same design books, we do mostly all use the same computers and computer software though.
+
+I'm having a hard time making this argument — we wouldn't expect a photo class to require that you use a Nikon f1, any camera might do. Why should all designers use Illustrator, Indesign and After Effects?
+
+How is teaching design different than teaching a specific tool? are some of these open tools better when it comes to learning designing over learning a software to enable the designing?
+
+Obviously, on one hand, we have a pragmatic situation: these are the tools of industry, pretty much every design studios my students are going to get jobs working at will be running Adobe Creative Suite on macs. Why would I not want to help students learn to use these things in my classes? But then I run into an issue — I don't know that the computer software we use to do these things will be the computer software we always use to do these things... how closely is the "designing" I'm teaching linked to the "softwareing"? Can I teach a student all the same time and motion concepts without ever having them use After Effects?
+
+Are the tools the issue or is it just the file formats? Regardless of paper or pencil brand I can draw the way I've learned to draw... regardless of paint I buy I can paint what I wish to paint... regardless of circular saw and hammer or typeface I can make a reasonable bench or poster... Are the digital tools we use which have replaced our hand tools so different that they cannot be replaced? WTF am I saying?
+
+Okay, alternatively though, if you think about designing as being a problem solver...
+
+Designing at its heart should be a set of skills, processes, patterns, ways of thinking, that are agnostic to discipline or tool. Obviously one needs some manner of experiential knowledge with a tool or medium or format in order successfully realize their vision, but in an abstract way. One of my favorite things about modernists like Massimo Vignelli is that thikning that their designing could be applied to anything — you need an identity? I can use my design knowledge to do that. You need a teacup? I can design that too. You need a suit? I can design a suit… a chair? wallpaper? table? business card? check check check check. That is agnostic to the tools of production. Have we tied the tools of prodcution too closely to the designing????? sketching is designing is making final pieces now??? is that good? why is that bad? what does open source change about that? am I talking about the right thing anymore???
+
+Why don't designers use open source? it's got bad UI? it's hard to find, install and actually use? The moderno-capitalist machine tells you that only Adobe CC can produce "professional" work? (or maybe something from AutoDesk) — other than Maxim, who makes C4D can you name another design software company???
+
+This class has really changed student views. I've seen a lot of affect on projects outside of our class. I've heard a lot of conversations about other's works in other critiques that were influenced by our class. In the classroom for this class however, it always felt like we were "doing" very little — but maybe that was because of what we were doing. It wasn't about producing a lot of new work, it was about producing our work differently. So studnets were making things for other classes perhaps twice, or perhaps it was taking longer to make things for other classes because they were experimenting with multiple tools or unfamiliar tools.
+
+Something interesting about us designers is that we all are using the same operating systems and softwares. In a field that values creativity and inventiveness, how can we be good at designing UI's, etc. when we all are looking at and fiddling with the same set of things as each other? One thing about a good interface is that goodness is often about familiarity. There is a certain amount of intuitiveness that you want to achieve, but in the end I like my Mac because I've been using macs for 30 years (a Mac SE from 1988 was my family's first comp I really remember using a lot). My colleagues that exclusively have used Windows or the few that are die hard linux afficianados feel the same for their chosen ecosystems — these things work as expected, those others don't, thus this is good and those are bad. I ran into this with my students too. I requested that they all try to use open source alternatives to Adobe products for the term. Most of them indulged me by at least installing inkscape, gimp, scribus, blender, etc. on their machines, but in the end claimed they were too hard to get to make the "finished" work they were trying to make... it was bad software and they couldn't make it work. I would argue that goodness and badness isn't really the issue — its learned behavior that's the issue. It's like knowing how to play a piano, and then being handed a guitar having never played one before — you can figure out the notes and maybe generally make something musical, but you wouldn't be able to say, play all the pieces of music you'd already learned for the piano with any skill... Anyway, the point is — by forcing yourself to try alternative tools you are actually making yourself a better designer. you see more things, you experience more, you might find that there are multiple ways of drawing vector paths (for example, Inkscape has 5 different kinds of vector path options when you select the pen tool compared to illustrator's one (Illustrator only draws good old beziers))
+
+What's important about Free/Libre/Open source? to me its the ethics and the ideology. Even if you don't want to use the software or the fonts themselves (though you should, there are some magnificently robust F/LOS fonts [Fira, Noto, Gentium, …; and really, Inkscape is superior for pure vector drawing]) you can benefit from seeing designing from the point of view of an open source developer. Mainly, that while you might be the creative visionary, you owe it to the community that exists around your project to involve them in improving your work.
+
+Adopting the idea that your creativity should result in outputs that others can benefit from and build upon is at odds with our contemporary capitalist culture.
+
+You can do this in different ways.
+
+There are tools that do things that no adobe thing does (nodebox) …
+
+
 
 If you think of 20000 years ago you had to be a real individual — you had to find and make your own food, construct your own shelter, etc. Now you don't need that you can get away with only knowing how to be a musician... the collective brain we have is gigantic, other people can know how to do all these other things, and I can just play music...
 
@@ -326,7 +360,8 @@ Still need dates, authors, etc. and to format according to CMOS.
 - Designing Open Source: https://medium.com/words-about-design/designing-open-source-e3adc220cfa7
 - This is the first day of the rest of my life, Eric Schrijver, libre graphics 1.1
 - The Catehdral and the Bazaar, Eric Raymond, This is version 3.0, Copyright © 2000 Eric S. Raymond, http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/
-- Brian Eno and Bjarke Ingels Instruments of Change, youtube video...
+- Brian Eno and Bjarke Ingels Instruments of Change, https://www.youtube.com/watch?v=aBG8t6jDWuA
+- Brian Eno on Genius, and “Scenius”: http://www.synthtopia.com/content/2009/07/09/brian-eno-on-genius-and-scenius/
 
 »»»»»»»»»
 
