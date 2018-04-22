@@ -1,12 +1,23 @@
 # Free as in Freedom.
 
+- intro
+- what are some useful ideals/philosophies from F/LOSS?
+- How do these apply/affect designing?
+- What about F/LOS tools/software?
+- How does the making/teaching of design change once the F/LOS ideas and tools are applied?
+- Conclusion
+
 “The master’s tools will never dismantle the master’s house” — Audrey Lorde
 
 “… Capitalism must constantly ‘cool hunt’ and turn whatever is authentic and genuine into trends for consumption” — Micah White
 
-How can you make open source more interesting to regular people, not just designers? Do people have any idea what open source is? Is it different than DIY?
+Open source software has a wide reach. That reach is predominantly felt in the web/app sphere. It's also contemporarneously extended deeply into the corporate (at least start up wise) sector — Facebook React, Adobe Brackets and Phone Gap, IBM Plex typeface, etc. — But, despite most of the internet runing on open source tools (Apache, Node, PHP, etc.) visual design has yet to embrace or grow with this... Why?
 
-Is open source elitist?
+What does design save by not diving more fully into free/libre/open source? What can we bring to design from F/LOS communties?
+
+Type design is a place that seems to be doing pretty well open source wise… why type but not other graphic design places? Is it because we're accustomed to revival typefaces, but not revival layouts or logos? Is it because typefaces are more like tools and objects, and less purely formal, visual metaphors? What???
+
+From a typographic stand point, libre fonts are superior pedagogically. Students can acutally look at and legally experiment with the actual insides of a typeface. Useful for also learning some actual typographic design — can build onto, fork and build anew, or addsomething to an existing typeface w/out fear of retribution! Better experiential learnng enabled?
 
 Open source is socialized means of production — which means you often have to help make your own shit. This isn't always what people want/can do? It is especially hard in regards to design: we are creators and problem solvers, but of often visual or physical things, not digital/code based things — especially not always of the actual tools of our design's productions (often working within a system — turn to printers for printing, typesetters/typographers for type, etc.)
 
@@ -39,6 +50,8 @@ You can do this in different ways.
 There are tools that do things that no adobe thing does (nodebox) …
 
 Anyway to illustrate my talk/essay with stuff from here: https://undraw.co/illustrations
+
+GNU's origins are in ethical utopia. Users are the same as neighbors, fellow citizens. We must apply our do unto others beliefs to the access and reuse of and extension of the tools we make, not just our person to person interactions.
 
 Pragmatic utopia: Imagine the world the way you wish it was, and then you actually sit down and try to build it that way.
 
@@ -109,6 +122,10 @@ F/LOS — Free, Libre, Open Source — Free as in Freedom...
 
 »»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
 
+How can you make open source more interesting to regular people, not just designers? Do people have any idea what open source is? Is it different than DIY?
+
+Is open source elitist?
+
 If you think of 20000 years ago you had to be a real individual — you had to find and make your own food, construct your own shelter, etc. Now you don't need that you can get away with only knowing how to be a musician... the collective brain we have is gigantic, other people can know how to do all these other things, and I can just play music...
 
 A hand axe can be created by a single individual, any modern thing, like a computer mouse or most software, no one person can create anymore. Distribution of labor and collaboration allow for gigantic things like building cathedrals or traveling to other worlds.
@@ -144,8 +161,6 @@ In any given scenario, these freedoms must apply to whatever code we plan to mak
 “Free software” does not mean “noncommercial”. A free program must be available for commercial use, commercial development, and commercial distribution. Commercial development of free software is no longer unusual; such free commercial software is very important. You may have paid money to get copies of free software, or you may have obtained copies at no charge. But regardless of how you got your copies, you always have the freedom to copy and change the software, even to sell copies.
 
 The Libre Designer.
-
-GNU's origins are in ethical utopia. Users are the same as neighbors, fellow citizens. We must apply our do unto others beliefs to the access and reuse of and extension of the tools we make, not just our person to person interactions.
 
 >>> start GNU references
 
