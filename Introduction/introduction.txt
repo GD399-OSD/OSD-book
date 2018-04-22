@@ -1,5 +1,7 @@
 # Free as in Freedom.
 
+How can you make open source more interesting to regular people, not just designers? Do people have any idea what open source is? Is it different than DIY? 
+
 You probably heard that one before because it was never new and it never gets old and its a folk song... — LLewyn Davis
 
 I have been teaching a class called Special Topics in Graphic Design: Open Source.
