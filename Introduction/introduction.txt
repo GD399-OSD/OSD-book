@@ -40,14 +40,6 @@ There are tools that do things that no adobe thing does (nodebox) …
 
 Anyway to illustrate my talk/essay with stuff from here: https://undraw.co/illustrations
 
-»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
-
-If you think of 20000 years ago you had to be a real individual — you had to find and make your own food, construct your own shelter, etc. Now you don't need that you can get away with only knowing how to be a musician... the collective brain we have is gigantic, other people can know how to do all these other things, and I can just play music...
-
-A hand axe can be created by a single individual, any modern thing, like a computer mouse or most software, no one person can create anymore. Distribution of labor and collaboration allow for gigantic things like building cathedrals or traveling to other worlds.
-
-Why would a smart person become a designer? Instead of being a arch-librarian governing eternal truth, the philosopher became a creative thinker that invented new concepts that we could use to advance our lives and society.
-
 Pragmatic utopia: Imagine the world the way you wish it was, and then you actually sit down and try to build it that way.
 
 Can I design the design that belongs to the time/space/world that I want to live in? if it doesn't exist already around you then you have to make the objects to help grow the future you want around those designs.
@@ -68,25 +60,13 @@ You often don't understand a problem until after the first time you implement a 
 
 What are benefits of using open source tools? Why would a designer open source their visual materials?
 
-Can code generate out design in a meaningful way?
-
-What have I learned? what have we learned? what did we talk about?
-
 Is there something aesthetically important we can learn from open source?
 
 Any tool should be useful in the expected way, but a truly great tool lends itself to uses you never expected
 
-do graphic designers make tools or just use tools
-
-read and discuss stallman, raymond, and some other typical open source writings, also look at designers working in the realm of vernacular, DIY, etc.
-
 Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This article's goal is to present the root ideals of the free/libre/open source software movements, and then apply them to the making of graphic design. Part of the paper covers the use of open source design tools, analyzing their pros and cons when compared to typical “industry-standard” making methods.
 
 Questions being answered: What does “Open Source” mean in a Graphic Design context? How do visual designers help to iterate & improve these tools without the ability to code? How do non-mainstream tools change how we make graphic design? How do our design processes evolve & maintain transparency the same way open source communities & projects do? What do accessibility, transparency, and “freedom” bring aesthetically to visual design solutions?
-
-Why not inkscape?
-Why not scribus?
-why not linux?
 
 Nodebox is an interesting example of a toll that perhaps has one of the more intuitive interfaces I've used period. The normal rub against open source tools is taht the UI design is a nightmare. This is sort of a double strike against them from the point of view of a designer?
 
@@ -126,6 +106,26 @@ Open Design is not about community sourced design decisions, there can still be 
 How does a designer fit into F/LOS?
 
 F/LOS — Free, Libre, Open Source — Free as in Freedom...
+
+»»»»»»»»»»»»»»»»»»»»»»»»»»»»»»
+
+If you think of 20000 years ago you had to be a real individual — you had to find and make your own food, construct your own shelter, etc. Now you don't need that you can get away with only knowing how to be a musician... the collective brain we have is gigantic, other people can know how to do all these other things, and I can just play music...
+
+A hand axe can be created by a single individual, any modern thing, like a computer mouse or most software, no one person can create anymore. Distribution of labor and collaboration allow for gigantic things like building cathedrals or traveling to other worlds.
+
+Why would a smart person become a designer? Instead of being a arch-librarian governing eternal truth, the philosopher became a creative thinker that invented new concepts that we could use to advance our lives and society.
+
+Can code generate out design in a meaningful way?
+
+What have I learned? what have we learned? what did we talk about?
+
+do graphic designers make tools or just use tools
+
+read and discuss stallman, raymond, and some other typical open source writings, also look at designers working in the realm of vernacular, DIY, etc.
+
+Why not inkscape?
+Why not scribus?
+why not linux?
 
 The Four Freedoms:
 https://www.gnu.org/philosophy/free-sw.html
