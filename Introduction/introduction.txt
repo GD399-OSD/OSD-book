@@ -1,23 +1,25 @@
 # Free as in Freedom.
 
 - intro
+- Bruce Lee? David Rudnick? Stewart Brand? Vernacular? Enzo Mari? Stallman? Raymond?
 - what are some useful ideals/philosophies from F/LOSS?
 - How do these apply/affect designing?
 - What about F/LOS tools/software?
 - How does the making/teaching of design change once the F/LOS ideas and tools are applied?
+- Modernism, Capitalism, etc. are all bad?
 - Conclusion
 
 “The master’s tools will never dismantle the master’s house” — Audrey Lorde
 
 “… Capitalism must constantly ‘cool hunt’ and turn whatever is authentic and genuine into trends for consumption” — Micah White
 
-Open source software has a wide reach. That reach is predominantly felt in the web/app sphere. It's also contemporarneously extended deeply into the corporate (at least start up wise) sector — Facebook React, Adobe Brackets and Phone Gap, IBM Plex typeface, etc. — But, despite most of the internet runing on open source tools (Apache, Node, PHP, etc.) visual design has yet to embrace or grow with this... Why?
+Open source software has a wide reach. That reach is predominantly felt in the web/app sphere. It's also contemporaneously extended deeply into the corporate (at least start up wise) sector — Facebook React, Adobe Brackets and Phone Gap, IBM Plex typeface, etc. — But, despite most of the internet runing on open source tools (Apache, Node, PHP, etc.) visual design has yet to embrace or grow with this... Why?
 
-What does design save by not diving more fully into free/libre/open source? What can we bring to design from F/LOS communties?
+What does design save by not diving more fully into free/libre/open source? What can we bring to design from F/LOS communities?
 
 Type design is a place that seems to be doing pretty well open source wise… why type but not other graphic design places? Is it because we're accustomed to revival typefaces, but not revival layouts or logos? Is it because typefaces are more like tools and objects, and less purely formal, visual metaphors? What???
 
-From a typographic stand point, libre fonts are superior pedagogically. Students can acutally look at and legally experiment with the actual insides of a typeface. Useful for also learning some actual typographic design — can build onto, fork and build anew, or addsomething to an existing typeface w/out fear of retribution! Better experiential learnng enabled?
+From a typographic stand point, libre fonts are superior pedagogically. Students can look at and legally experiment with the actual insides of a typeface. Useful for also learning some actual typographic design — can build onto, fork and build anew, or addsomething to an existing typeface w/out fear of retribution! Better experiential learnng enabled?
 
 Open source is socialized means of production — which means you often have to help make your own shit. This isn't always what people want/can do? It is especially hard in regards to design: we are creators and problem solvers, but of often visual or physical things, not digital/code based things — especially not always of the actual tools of our design's productions (often working within a system — turn to printers for printing, typesetters/typographers for type, etc.)
 
