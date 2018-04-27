@@ -1,4 +1,4 @@
-# F/LOS Regularly
+# F/LOS Regularly[^1]
 
 ## (or, the Libre Graphic Designer)
 
@@ -37,3 +37,21 @@ Move to brand? that vernacular thing is the switch?
 How to get back to open source?
 
 ## The Golden Rule
+
+Stallman?
+
+Do unto others?
+
+How to get to teaching?
+
+## A New toolbox
+
+What are we teaching in our graphic design classes? Are we teaching students to use the Adobe Creative Suite -- or are we teaching them designing?
+
+How does the new toolbox solve whatever things I mention before???
+
+Teaching is more difficult than learning because what teaching calls for is this: to let learn. The real teacher, in fact, lets nothing else be learned than learning. His conduct, therefore, often produces the impression that we learn nothing from him, if by 'learning' we now suddenly understand merely the procurement of useful information. -- Martin Heidegger
+
+--------------------------------------------------------------------------------
+
+[1]: F/LOS stands for "Free/Libre Open Source," it describes anything that fits into the realm of "free as in freedom," either the original Richard Stallman, GNU meaning of "free," to the more contemporary business friendly open source... It is also employed as F/LOSS -- the last S meaning "Software" -- Free/Libre Open Source Software.
