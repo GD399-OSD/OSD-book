@@ -212,8 +212,6 @@
             <ITEXT FONT="Gap Sans Bold" FONTSIZE="40" CH="allows the user to"/>
             <breakline/>
             <ITEXT FONT="Gap Sans Bold" FONTSIZE="40" CH="only work with the"/>
-            <breakline/>
-            <ITEXT FONT="Gap Sans Bold" FONTSIZE="40" CH="intial form."/>
             <trail LINESP="43"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
