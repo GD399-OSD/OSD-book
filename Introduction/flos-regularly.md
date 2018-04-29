@@ -2,25 +2,25 @@
 
 ## (or, the Libre Graphic Designer)
 
-Special Topics in Graphic Design is an elective in the Maryland institute college of art's (MICA) graphic design course list with no set structure or content. It is meant to evolve and change with new developments and faculty. This term I choose to run it with the topic of "Open Source" -- What this meant was roughly outlined: we'd use open source tools and discuss how design can be more open -- other than that, my ideas as the instructor were mainly in using the term as a lab: we'd experiment, hypothesize, and use the act of making with unfamiliar, non-traditional tools as a way to learn more about design and designing, as well as explore and implement first hand the ideals and softwares from the free/libre open source spheres. (From here on out: F/lOS or F/LOSS).
+So what is this paper? what is (was?) this class? What is Libre Design (what is FLOS design?)
 
-From the work I've done around sustainability and workshops, conversations, and meetings had with some key visiting designers to MICA (David Crossland of Google Fonts, Loraine Furter & Eric Schrijver of Open Source Publishing), I felt that this was an important special topic to explore.
+Free/Libre Open Source Software has a wide reach. Open operating systems power servers and computers and open programs and modules run websites and makeup pieces of or the totality applications we rely on daily. F/LOSS also contemporaneously has extended deeply into the corporate (at least start up wise) sector -- Facebook React, Adobe Brackets and Phone Gap, the IBM Plex typeface, etc. -- But, despite most of the internet (and increasingly enterprise backends) running on open source tools (Linux, Apache, Node, PHP, React, etc.) visual design has yet to fully embrace these tools and ideas. What does visual design gain (or preserve?) by not dipping its toes into free/libre/open source? What can we bring to graphic design from F/LOS communities?
 
-The class became a hybrid studio/acadmic class. There was pure making -- just sitting down, opening a program, and trying to make a poster in inkscape for example (we would setup linux computers some days in class just for the purpose of trying a tool).
+Special Topics in Graphic Design is an elective in the Maryland institute college of art's (MICA) graphic design course list with no set structure or content. It is meant to evolve and change with new developments and faculty. This past term I choose to run it with the topic of "Open Source" -- What this meant was sketchily outlined: the class would use open source tools and discuss how design can be more open. Other than that, my ideas were mainly in using the term as a lab: we'd experiment, hypothesize, and use the act of making with unfamiliar, non-traditional tools as a way to learn more about design and designing, as well as explore and implement F/lOS ideals and software.
 
-The premise was meant to be simople: explore designing w/ this alternative set of tools and ideas.
+The course was inspired by work and thinking I've done around sustainability and from workshops, conversations, and meetings had with some key visiting designers to MICA over the last several years (David Crossland of Google Fonts, Loraine Furter & Eric Schrijver of Open Source Publishing).
+
+The premise was meant to be simple: explore designing w/ this alternative set of tools and ideas.
 
 The students and I did a lot of reading, thinking, experimenting, and just attempting to use things like Blender, Scribus, Inkscape, Linux, NodeBox, Processing, and more... We looked at tools, file formats, philosophies and ideologies.
 
-Modernism is bad?
+Why F/LOS? tools? Ideas? How they change design?
 
-Why F/LOS? tools? Ideas? How they change design? Garth DB?
+Garth DB?
 
-Through the use of the tools interesting new thinking was created. Via readings and discussions, reasons for using the F/LOS offerings were realized. Of course, pragmatic reasons (excuses? complaints?) were also found for _not_ F/LOSing. I prefered the utopian ideals, critical view point, design fiction stance that influenced many of the directions conversations took.
+Through the use of the tools interesting new thinking was created. Via readings and discussions, reasons for using the F/LOS offerings were realized. Of course, pragmatic reasons (excuses? complaints?) were also found for _not_ F/LOSing. I preferred the utopian ideals, critical view point, design fiction stance that influenced many of the directions conversations took.
 
 Open Source ideals and how those relate nicely for pedagogical, social, and ethical reasons for using F/LOSS. (Designing w/ F/LOS tools and ideals)
-
-So what is this paper? what is (was?) this class? What is Libre Design (what is FLOS design?)
 
 I've been frustrated as of late with my role in the classroom. How am I to teach designing without accidentally falling back to just teaching software. Instead of demoing tools, how might we demo designing? Instead of learning a prescription for executing a specific outcome, how can I work towards the learning of learning to find the outcome you desire from anywhere (any place? any tool?)?
 
@@ -49,6 +49,10 @@ Don't forget to get a bit more into the "making" part? some things faster, some 
 open file formats ae superior. Undersatnd what is in them in a way you can't w/ proprietary file types.
 
 Open fonts are superior pedagogically. You can actually see the insides of a font w/out needing to do anything else.
+
+Type design is a place that seems to be doing pretty well open source wise... why type but not other graphic design places? Is it because we're accustomed to revival typefaces, but not revival layouts or logos? Is it because typefaces are more like tools and objects, and less purely formal, visual metaphors? What???
+
+From a typographic stand point, libre fonts are superior pedagogically. Students can look at and legally experiment with the actual insides of a typeface. Useful for also learning some actual typographic design -- can build onto, fork and build anew, or addsomething to an existing typeface w/out fear of retribution! Better experiential learnng enabled?
 
 Ease of use is predominantly familiarity based. (find the essay this idea came from > open source ui? > maybe they linked to one more that really had it?)
 
