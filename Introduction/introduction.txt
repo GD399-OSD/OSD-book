@@ -413,3 +413,8 @@ I attended design conferences just last year and haven't heard this topic being 
 Reviewer 3
 Very thorough, supports how all claims will be executed and discussed. It is very clear what will take place during this presentation.
 I'm sure there are concrete examples of how you use this software in both the presentation and paper, but I would suggest perhaps including sample assignments as well to illustrate how to effectively implement these FLOSS programs into the classroom.
+
+»»»»»»»»»»»»»»»»»
+
+Design should be a conduit to communicate your values …
+do the tools that you choose to use affect this?

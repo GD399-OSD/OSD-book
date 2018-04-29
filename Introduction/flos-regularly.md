@@ -2,7 +2,83 @@
 
 ## (or, the Libre Graphic Designer)
 
+Special Topics in Graphic Design is an elective in the Maryland institute college of art's (MICA) graphic design course list with no set structure or content. It is meant to evolve and change with new developments and faculty. This term I choose to run it with the topic of "Open Source" -- What this meant was roughly outlined: we'd use open source tools and discuss how design can be more open -- other than that, my ideas as the instructor were mainly in using the term as a lab: we'd experiment, hypothesize, and use the act of making with unfamiliar, non-traditional tools as a way to learn more about design and designing, as well as explore and implement first hand the ideals and softwares from the free/libre open source spheres. (From here on out: F/lOS or F/LOSS).
+
+From the work I've done around sustainability and workshops, conversations, and meetings had with some key visiting designers to MICA (David Crossland of Google Fonts, Loraine Furter & Eric Schrijver of Open Source Publishing), I felt that this was an important special topic to explore.
+
+The class became a hybrid studio/acadmic class. There was pure making -- just sitting down, opening a program, and trying to make a poster in inkscape for example (we would setup linux computers some days in class just for the purpose of trying a tool).
+
+The premise was meant to be simople: explore designing w/ this alternative set of tools and ideas.
+
+The students and I did a lot of reading, thinking, experimenting, and just attempting to use things like Blender, Scribus, Inkscape, Linux, NodeBox, Processing, and more... We looked at tools, file formats, philosophies and ideologies.
+
+Modernism is bad?
+
+Why F/LOS? tools? Ideas? How they change design? Garth DB?
+
+Through the use of the tools interesting new thinking was created. Via readings and discussions, reasons for using the F/LOS offerings were realized. Of course, pragmatic reasons (excuses? complaints?) were also found for _not_ F/LOSing. I prefered the utopian ideals, critical view point, design fiction stance that influenced many of the directions conversations took.
+
+Open Source ideals and how those relate nicely for pedagogical, social, and ethical reasons for using F/LOSS. (Designing w/ F/LOS tools and ideals)
+
+So what is this paper? what is (was?) this class? What is Libre Design (what is FLOS design?)
+
+I've been frustrated as of late with my role in the classroom. How am I to teach designing without accidentally falling back to just teaching software. Instead of demoing tools, how might we demo designing? Instead of learning a prescription for executing a specific outcome, how can I work towards the learning of learning to find the outcome you desire from anywhere (any place? any tool?)?
+
+F/LOS doesn't remove this issue, but it creates alternatives.
+
+Good place to insert some Dunne and Raby??? Possible/probable? Adjacent possibles? Also, Femke's thoughts on everyone using adobe from "awkward gestures?"
+
+These aren't the standards. You can't conflate learning to use scribus with learning to work in a design studio.
+
+Rudnick -- designing is increasingly focused on solving problems of a client, not problems of an audience. Does leraning to use the right tools to get employed relate to this? focus on technical skills as they apply to a workspace as opposed to the more general ideas of designing period?
+
+F/LOS tools are a struggle. Especially if you're already conditioned to how other tools work. Again, in presenting alternatives they point out the failings and successes of existing, more commonly used tools. Inkscape has more options when drawing with the pen tool for example -- that can lead to some really radical outcomes that you can't just accidentally arrive at w/ something like Adobe Illustrator.
+
+If the goal of us as academics is in increasing knowledge (I would also say that any field period is only useful if it is constantly producing knowledge and moving culture), then we are arbitrarily limiting the futures of visual design by collectively standardizing on a set of softwares/operating systems/formats.
+
+Digression to pure content? In science its useful for people to share units and equations -- I would equate this with file formats and design standards. Scientists/mathematicians can use all manner of tools and instruments to arrive at the same outcomes because of shared "infrastructure" -- like all using the same calculus notation -- not because of homogenous ways in/out??? If anything could edit/open a file, then it would matter less what thing you picked to edit that file. See HTML/CSS/Javascript (or any computer language frankly) -- you can use any editor you want... You can then even use these same text editors to edit SVG and XML files that really are visual files..........
+
+A little bit about using the software, what that presents, then get into the background ideals.
+
+A student found this tool: NodeBox as part of a simple research prompt they were give: find an F/LOS design tool none of the rest of us have seen/heard of yet. Nodebox is one of the more amazing pieces of software for making visuals I have used. Period. It's amazing. Its a fun, intuitive, fast way to make programmatic visuals.
+
+Something quaint and william morris-y about all of this. Understanding your tools better?
+
+Don't forget to get a bit more into the "making" part? some things faster, some things slower, but it presents new opportunities for learning in and out of the classroom. Students more forced to help each other. Learn to Learn ala Heideggar?
+
+open file formats ae superior. Undersatnd what is in them in a way you can't w/ proprietary file types.
+
+Open fonts are superior pedagogically. You can actually see the insides of a font w/out needing to do anything else.
+
+Ease of use is predominantly familiarity based. (find the essay this idea came from > open source ui? > maybe they linked to one more that really had it?)
+
+If we increasingly design interfaces, then we should probably use a lot more and different and varied versions of the interfaces to understand at least some of the other points of view (literally and figuratively)
+
+Good transition time into the ideals???
+
+So all this talk about the software/tools is great, and looking at how some of that more pragmatic stuff ended up directly in class, good too... however... what about the ideals/philosophies?
+
+Stallman's ethical foundations?
+
+Raymonds libertariansism?
+
+I'm into stallman's ideals, maybe not Open Source's generally?
+
+Free becomes Open Source to better serve business interests.
+
+Closed tools & Closed ecosystems?
+
+Design versions of this???
+
+Jump back to the whole earth catalog? and other counter-culture 60s/70s stuff?
+
+So Free/Libre/Open Source finds some footing in software, computer programming and the web. But what about visual design? what does it contribute other than just alternatives to the adobe creative suite?
+
+»»»»»»»»»»»»»
+
 "We need utopian thinking because without it, we are constrained by the tyranny of the possible." -- Stephen Duncombe
+
+» Caveat: I'm talking mainly about graphic and web design -- 2d, 3d visual design. That is where my experience and teaching live.
 
 When you hear "Open Source," an image of an aging techno-hippie, linux laptop toting developer, or silicon-valley millennial might come to mind. What probably would not pop into your head is a graphic designer.
 
@@ -49,6 +125,14 @@ How to get to teaching?
 What are we teaching in our graphic design classes? Are we teaching students to use the Adobe Creative Suite -- or are we teaching them designing?
 
 How does the new toolbox solve whatever things I mention before???
+
+## One Cloud to Make them All
+
+Adobe more or less has a monoply on the toolset of the visual designer. Worldwide most designers, studios, and educational programs rely on Adobe tools to output their visuals (more physical good related things might be reliant on all autodesk suites of things instead, but the point more or less stands).
+
+Is there a pedagogical or ethical problem with that? Is it made worse by the fact that we can't get at any of the components under the hood? and I don't mean make or modify the software, I just mean even the basics of having file formats that aren't easily interchangeable or editable w/out their tools. Most of the libre design tools use some sort of open format, or at least text-editable format if you are mising the program. Scribus and Nodebox for example, their file formats are really both just special xml documents. Opening in a text editor means you can still pretty easily "read" the design even if you can't see it. This means that you can edit, improve, and reflow your file w/out even needing to have Scribus installed! If you can figure out the xml, you can make actual meaningful edits to your layout w/out the gui! Try that in Indesign.
+
+»»»
 
 Teaching is more difficult than learning because what teaching calls for is this: to let learn. The real teacher, in fact, lets nothing else be learned than learning. His conduct, therefore, often produces the impression that we learn nothing from him, if by 'learning' we now suddenly understand merely the procurement of useful information. -- Martin Heidegger
 
