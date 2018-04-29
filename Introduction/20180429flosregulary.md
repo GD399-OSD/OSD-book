@@ -1,12 +1,5 @@
 # F/LOS Regularly
 
-- some setup
-- define f/los & a brief history lesson?
-- GNU = idealism; so move into critical design?
-- As a counter, TCATB defines a process from Linux, this is practical/pragmatic. Fits w/ Brand's vernacular designing to compare a computer process to a more traditional design process.
-- How does all of this fit together?
-- What's the take away as designers? (ideals/tools/reuse/access/transparency/etc.?)?
-
 Free/Libre Open Source software (F/LOSS) powers much of the web and the modern tech world. F/LOS hardware powers all manner of maker spaces, workshops, and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design?
 
 F/LOS in a graphic design context is a useful critical tool. F/LOS's ideals are often outside mainstream capitalism's, providing alternative models for creation and authorship for a design industry increasingly focused on serving clients[rudnick?] (functioning within mainstream capitalism).
@@ -21,11 +14,25 @@ Open source software powers much of the web and the modern tech world. Open sour
 
 Anthony Dunne and Fiona Raby posit in "Designer As Author" that designers increasingly consider "alternative visions to those put forward by industry."[^Designer as Author] F/LOS presents real opportunities for doing just this. F/LOSS -- Linux, GIMP, Inkscape, Scribus for example -- is _not_ what the mainstream design industry is using. These not only provide alternative softwares that can be critical of "affirmative" (to use D&R's language) tools like Adobe Creative Cloud or Autodesk's suite of programs, but they also come from a differing set of ideological places.
 
+"Objects that are critical of industry's agenda are unlikely to be funded by industry ... Deisgn needs to mature and find ways of operating outside the tight constraints of servicing industry." [^designer as author]
+
+This is the Free/Libre vs. open source thing (Stallman is adamant that Free software is not the same as open source software... digging into the ways that the licenses work (GPL, Apache, MIT, etc.) gets at the detailed specifics of what really is different...)
+
+The social value of our work should not be tied to the marketplace...
+
+Does your designing match your ethics? does desinging just reinforce global capitalist values?
+
 Tracing the lineage of "Open Source" one is led back to Richard Stallman's GNU Manifesto [@fat's talk][@garth DB's talk][TCATB by eric raymond too. Stallman's point of view is idealistic. If we take this ethical point of departure to think about why open source tools for design where does that lead us?[^GNU manifesto] (more history here???). The Golden rule or something.
 
-If proprietary tools create such a problematic ethical scenario, then these ideals are ripe for using critically as well. The tools themselves are easily downloaded and accessed by anyone with an internet connection and semi-modern computer running Linux, Windows or OSX (well, in theory, maybe not fully in practice). So, these are not extreme in and of themselves -- the tools are realistic while the ideals are extreme. Seen this way F/LOS fulfills a different set of Dunne and Raby's ideas -- it can become a design fiction. Presenting an alternative, albeit fictional present to provoke deisgners into questioning their tools, ethics, and ...
+If proprietary tools create such a problematic ethical scenario, then these ideals are ripe for using critically as well. The tools themselves are easily downloaded and accessed by anyone with an internet connection and semi-modern computer running Linux, Windows or OSX (well, in theory, maybe not fully in practice). So, these are not extreme in and of themselves -- the tools are realistic while the ideals are extreme. Seen this way F/LOS fulfills a different set of Dunne and Raby's ideas -- it can become a design fiction. Presenting an alternative, albeit fictional present to provoke designers into questioning their tools, ethics, and ...
 
 That places us in an interesting place -- using Free/Libre/Open Source as a way to create a "fiction" with which to critque the current design industry. One that is a monoculture of operating system, software, and aesthetics. A Wall of aluminum with glowing fuits, and a certain creative cloud being where everyone's inspirations and tools for output now live. Mr. Keedy also talks about the "global style"...
+
+Mr. Keedy in _The Global Style: Modernist Typography after Postmodernism_ writes that international style designers intentionally abandoned local and regional traditions for "a new universal visual language that became the default style of corporate capitalism." In Keedy's view, we now have a new "Global Style" that does much the same, only for cultural institutions. A search on google images, pinterest, or visit to trendlist.org will privde copious examples of what Keedy describes: "white space backgrounds, sans-serif typefaces, minimalist asymmetrically balanced compositions with limited color palette. No xtraneous decoratoin, ornament or complex patterns ..."
+
+Mr. Keedy claims that the internet is what has made this possible: this global style is more wide spread than international style ever hoped to be as it can so quickly and easily be digital whisked away to anywhere. That most designers use the same software for creating with many of the same default fonts, settings, etc. cannot hurt either. [stats on who uses adobe? mac osx?]
+
+(one could perhaps argue that this is its own kind of vernacular re: later things in this essay, however, this is a top down -- serving clients and trickling out to all other designers serving their clients; whereas the open source process and the vernacular systems described by stewart brand are )
 
 David Rudnick continues to point out that designing is increasingly focused on solving problems of a client, not problems of an audience. Does embracing F/LOS(S) relate to this? [^Strelka talk, Twitter?]
 
@@ -49,7 +56,7 @@ Garth Braithwaite really starts getting at all o this with his _Open Design Mani
 
 So we have on one hand a pragmatic approach that is based in the history of designing, the history of just how we as humans created cultural and societal artifacts, and on the other a critical design approach that intentionally positions itself as different from mainstream capitalist designing.
 
-How to integrate the making into this???
+So there is a spectrum of making that falls into "F/LOS designing." If you are on the critical design fence, then moving whole heartedly to all F/LOS replacements for the normal tools of a designer is required. It becomes almost a performance piece to intentionally point out the moderno-capitalist mono culture the F/LOS stance (again in Stallman-esque, Critical design-esque extreme terms) is in opposition too.
 
 okay! so now how to wrap this up???
 
