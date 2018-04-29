@@ -164,6 +164,6 @@ Is there a pedagogical or ethical problem with that? Is it made worse by the fac
 
 --------------------------------------------------------------------------------
 
-[1]: F/LOS stands for "Free/Libre Open Source," it describes anything that fits into the realm of "free as in freedom," either the original Richard Stallman, GNU meaning of "free," to the more contemporary business friendly open source... It is also employed as F/LOSS -- the last S meaning "Software" -- Free/Libre Open Source Software.
+[^1]: F/LOS stands for "Free/Libre Open Source," it describes anything that fits into the realm of "free as in freedom," either the original Richard Stallman, GNU meaning of "free," to the more contemporary business friendly open source... It is also employed as F/LOSS -- the last S meaning "Software" -- Free/Libre Open Source Software.
 
-[2]: Eric Schrijver, This is the First Day of the rest of my life... (Libre design mag?)
+[^2]: Eric Schrijver, This is the First Day of the rest of my life... (Libre design mag?)
