@@ -35,7 +35,7 @@ Are the tools the issue or is it just the file formats? Regardless of paper or p
 
 Okay, alternatively though, if you think about designing as being a problem solver...
 
-Designing at its heart should be a set of skills, processes, patterns, ways of thinking, that are agnostic to discipline or tool. Obviously one needs some manner of experiential knowledge with a tool or medium or format in order successfully realize their vision, but in an abstract way. One of my favorite things about modernists like Massimo Vignelli is that thikning that their designing could be applied to anything — you need an identity? I can use my design knowledge to do that. You need a teacup? I can design that too. You need a suit? I can design a suit… a chair? wallpaper? table? business card? check check check check. That is agnostic to the tools of production. Have we tied the tools of prodcution too closely to the designing????? sketching is designing is making final pieces now??? is that good? why is that bad? what does open source change about that? am I talking about the right thing anymore???
+Designing at its heart should be a set of skills, processes, patterns, ways of thinking, that are agnostic to discipline or tool. Obviously one needs some manner of experiential knowledge with a tool or medium or format in order successfully realize their vision, but in an abstract way. One of my favorite things about modernists like Massimo Vignelli is that thinking that their designing could be applied to anything — you need an identity? I can use my design knowledge to do that. You need a teacup? I can design that too. You need a suit? I can design a suit… a chair? wallpaper? table? business card? check check check check. That is agnostic to the tools of production. Have we tied the tools of production too closely to the designing?? what does open source change about that?
 
 Why don't designers use open source? it's got bad UI? it's hard to find, install and actually use? The moderno-capitalist machine tells you that only Adobe CC can produce "professional" work? (or maybe something from AutoDesk) — other than Maxim, who makes C4D can you name another design software company???
 
@@ -182,7 +182,7 @@ wasteful duplication of system programming effort will be avoided.
 
 a user that needs to make changes to their system will always be free to make them.
 
-schools will be able to provide a much more educational environment by encouraging all students to study and improve the sytem code.
+schools will be able to provide a much more educational environment by encouraging all students to study and improve the system code. [GNU Manifesto]
 
 Copying all or parts of a program is as natural to a programmer as breathing, and as productive. It ought to be as free.
 [does this sentence work if you replace program with design and programmer with designer??? — copying all or part of a design is as natural to a designer as breathing, and as productive. It ought to be as free.]
@@ -190,7 +190,7 @@ Copying all or parts of a program is as natural to a programmer as breathing, an
 distinguish between support in the form of real programming work and mere handholding.
 [the handholding is often missing in my personal experience]
 
-if anything desrves a reward it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results.
+if anything deserves a reward it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results. [GNU Manifesto]
 
 There is nothing wrong with wanting to be paid for work or seeking to maximize one's income as long as one does not use means that are desctructive. The means customary in the field of software today are based on destruction. Restrictions reduce the amount and the ways that a program can be used. The reason a good citizen does not use such destructive means to become wealthier is that, if everyone did so, we would all become poorer from the mutual desctructiveness — this is Kantian ethics, or the Golden Rule. The desire to be rewarded for one's creativity does not justify depriving the world in general of all or part of that creativity.
 
@@ -253,21 +253,21 @@ F/LOSS encourages a mindset of bringing together disparate sources to make somet
 
 Arguments against open design include that the process itself isn't clear, there aren't easy objective measurements of success (like a function works or it doesn't, a design is sort of subjective in this regard...)
 
-Is the accessiblity of a tool at issue? is the accessibility a problem?
+Is the accessibility of a tool at issue? is the accessibility a problem?
 
 does just showing content/process/files/etc. count as open design?
 
 open source = recursive?
 
-OSD represents and emerging form of infrastructure that, at its heart, enbale non-hierarchical community sourced collaboration?
+OSD represents and emerging form of infrastructure that, at its heart, enable non-hierarchical community sourced collaboration?
 
-OSD is rooted in vernacular techniques. Sharing, iterating, copying whatever works best was what allowed communities to develop effective tools, clothing, shelter, objects, etc. A similar set of practices, more or less everywhere, allowed for forms to slowly iterate, progress, improve, disperse, but still to generate local flavor and specialization. Aesthetics, materials, decoration, forms are able to grow and evolve based on specific locations, but the general idea of iterative, open, designs was the way pretty much all cultures "designed" in the past. Succesful techniques were discovered to address local environmental conditions in an economic, reliable, easily duplicable manner.
+OSD is rooted in vernacular techniques. Sharing, iterating, copying whatever works best was what allowed communities to develop effective tools, clothing, shelter, objects, etc. A similar set of practices, more or less everywhere, allowed for forms to slowly iterate, progress, improve, disperse, but still to generate local flavor and specialization. Aesthetics, materials, decoration, forms are able to grow and evolve based on specific locations, but the general idea of iterative, open, designs was the way pretty much all cultures "designed" in the past. Successful techniques were discovered to address local environmental conditions in an economic, reliable, easily duplicable manner.
 
-Interset in this verancular approach began to surface within communities of computer scientists (this was also how scientific knowledge often is shared and grows) … this became (and is called variously) F/LOS: Free, Libre, Open Source...............
+Interest in this vernacular approach began to surface within communities of computer scientists (this was also how scientific knowledge often is shared and grows) … this became (and is called variously) F/LOS: Free, Libre, Open Source...............
 
-Equal parts pragamtism and utopia...
+Equal parts pragmatism and utopia...
 
-Values opennes, innovation, viability over profit.
+Values openness, innovation, viability over profit.
 
 Premised on the practices of sharing and increasing knowledge
 
@@ -275,7 +275,7 @@ Focus is not on the development of commodity, but on addressing the needs of com
 
 Firefox Photon Design system? Solve a problem that others won't because some design decisions/bug finding comes from the community. (firefox best at screen reader friendly stuff, etc.)
 
-As designers we can integarate open principles into our practices simply by being more transparent and sharing more... sharing assets, data, visual components, processes... By making generosity a key component of practice, designers can build a rich ecosystem of collaboration and inspiration.
+As designers we can integrate open principles into our practices simply by being more transparent and sharing more... sharing assets, data, visual components, processes... By making generosity a key component of practice, designers can build a rich ecosystem of collaboration and inspiration.
 
 designers can choose to use open source tools like Scribus or Fontforge. Free to modify their tools, open source designers have the power to change the aesthetic mode of production. This is particularly important because, as Fredric Jameson writes in _Postmodernisn, or The Cultural Logic of Late Capitalism_, because, “[a]esthetic production has become integrated into commodity production.” By using open source tools, designers can reclaim autonomy and authorship. [potential connection with Dunne/Raby, Mari, and the modernsim is bad conversation our class had]
 
