@@ -18,7 +18,7 @@ Free/Libre Open Source Software has a wide reach. Open operating systems power s
 
 Why don't designers use open source? it's got bad UI? it's hard to find, install and actually use? The moderno-capitalist machine tells you that only Adobe CC can produce "professional" work? (or maybe something from AutoDesk) -- other than Maxim, who makes C4D can you name another design software company???
 
-Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design?
+Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design?
 
 Designers in open source are often found in the contemporary web/app sphere. There are plenty of CSS frameworks and component libraries that are upkept by designers (@fat, @jxnblk to list two such "designers" -- Twitter Bootstrap, BassCss, Styled System, etc.); or maybe they work on for a dsitributor of a specific Linux flavor (Nuno Pinheiro). Either way, they don't typically run in the typical graphic design circles. Why aren't there more graphic designers involved in these things?
 
