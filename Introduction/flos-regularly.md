@@ -6,6 +6,12 @@ So what is this paper? what is (was?) this class? What is Libre Design (what is 
 
 Free/Libre Open Source Software has a wide reach. Open operating systems power servers and computers and open programs and modules run websites and makeup pieces of or the totality applications we rely on daily. F/LOSS also contemporaneously has extended deeply into the corporate (at least start up wise) sector -- Facebook React, Adobe Brackets and Phone Gap, the IBM Plex typeface, etc. -- But, despite most of the internet (and increasingly enterprise backends) running on open source tools (Linux, Apache, Node, PHP, React, etc.) visual design has yet to fully embrace these tools and ideas. What does visual design gain (or preserve?) by not dipping its toes into free/libre/open source? What can we bring to graphic design from F/LOS communities?
 
+Why don't designers use open source? it's got bad UI? it's hard to find, install and actually use? The moderno-capitalist machine tells you that only Adobe CC can produce "professional" work? (or maybe something from AutoDesk) -- other than Maxim, who makes C4D can you name another design software company???
+
+Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these mechanisms to the benefit of Graphic Design? This article's goal is to present the root ideals of the free/libre/open source software movements, and then apply them to the making of graphic design. Part of the paper covers the use of open source design tools, analyzing their pros and cons when compared to typical "industry-standard" making methods.
+
+Designers in open source are often found in the contemporary web/app sphere. There are plenty of CSS frameworks and component libraries that are upkept by designers (@fat, @jxnblk to list two such "designers" -- Twitter Bootstrap, BassCss, Styled System, etc.); or maybe they work on for a dsitributor of a specific Linux flavor (Nuno Pinheiro). Either way, they don't typically run in the typical graphic design circles. Why aren't there more graphic designers involved in these things?
+
 Special Topics in Graphic Design is an elective in the Maryland institute college of art's (MICA) graphic design course list with no set structure or content. It is meant to evolve and change with new developments and faculty. This past term I choose to run it with the topic of "Open Source" -- What this meant was sketchily outlined: the class would use open source tools and discuss how design can be more open. Other than that, my ideas were mainly in using the term as a lab: we'd experiment, hypothesize, and use the act of making with unfamiliar, non-traditional tools as a way to learn more about design and designing, as well as explore and implement F/lOS ideals and software.
 
 The course was inspired by work and thinking I've done around sustainability and from workshops, conversations, and meetings had with some key visiting designers to MICA over the last several years (David Crossland of Google Fonts, Loraine Furter & Eric Schrijver of Open Source Publishing).
@@ -16,11 +22,11 @@ The students and I did a lot of reading, thinking, experimenting, and just attem
 
 Why F/LOS? tools? Ideas? How they change design?
 
-Garth DB?
-
 Through the use of the tools interesting new thinking was created. Via readings and discussions, reasons for using the F/LOS offerings were realized. Of course, pragmatic reasons (excuses? complaints?) were also found for _not_ F/LOSing. I preferred the utopian ideals, critical view point, design fiction stance that influenced many of the directions conversations took.
 
 Open Source ideals and how those relate nicely for pedagogical, social, and ethical reasons for using F/LOSS. (Designing w/ F/LOS tools and ideals)
+
+F/LOSS encourages a mindset of bringing together disparate sources to make something new. This is why artists could potentially feel at home. There's never a clean slate when you make a work of art or design. We are informed by our personal history, we are informed by all the other works we know.[^2]
 
 I've been frustrated as of late with my role in the classroom. How am I to teach designing without accidentally falling back to just teaching software. Instead of demoing tools, how might we demo designing? Instead of learning a prescription for executing a specific outcome, how can I work towards the learning of learning to find the outcome you desire from anywhere (any place? any tool?)?
 
@@ -28,7 +34,7 @@ F/LOS doesn't remove this issue, but it creates alternatives.
 
 Good place to insert some Dunne and Raby??? Possible/probable? Adjacent possibles? Also, Femke's thoughts on everyone using adobe from "awkward gestures?"
 
-These aren't the standards. You can't conflate learning to use scribus with learning to work in a design studio.
+These aren't the standards. You can't conflate learning to use scribus or inkscape with learning to work with the production tools of a design studio. It might be about drawing vecotrs or the general ideas of using layout tools. But it isn't being taught the "right way" industry expects you to use. Conflict between what the graphic design industry wants and what being an educator wants. I don't want to teach you to be a worker or a productionist, I want to teach you to be a designer. Might these alternative tools do this better?
 
 Rudnick -- designing is increasingly focused on solving problems of a client, not problems of an audience. Does leraning to use the right tools to get employed relate to this? focus on technical skills as they apply to a workspace as opposed to the more general ideas of designing period?
 
@@ -40,6 +46,16 @@ Digression to pure content? In science its useful for people to share units and 
 
 A little bit about using the software, what that presents, then get into the background ideals.
 
+Stallman's main ideal is "Free and in Freedom." He didn't want to be limited by how or what he could do with the programming tools he was using. The mythology basically goes is that he gets frustrated with a printer, writes some new code for the print driver since he had the source code, but when the next version of the printer comes out it has the same problem but now xerox won't share the code so that he can fix it. This makes him so mad he walks out, quits his job at MIT, and writes the GNU manifesto ... From then on focusing on free software (and literally living in his office at MIT still despite no longer officially working there [that's what having ideals gets you???]).
+
+The gist of "free as in freedom" is multi-fold:
+
+1. Free means that you have access to the under the hood raw materials and can tinker, fix, change, etc. at your will.
+2. Free also means that your improvements, changes, whatever can and should also then be shareable/redistributable
+3. It does not imply free as in no cost... Since the access to the source code is free, this is often the case, but it is not the intention.
+
+(four freedoms here instead????)
+
 A student found this tool: NodeBox as part of a simple research prompt they were give: find an F/LOS design tool none of the rest of us have seen/heard of yet. Nodebox is one of the more amazing pieces of software for making visuals I have used. Period. It's amazing. Its a fun, intuitive, fast way to make programmatic visuals.
 
 Something quaint and william morris-y about all of this. Understanding your tools better?
@@ -49,6 +65,10 @@ Don't forget to get a bit more into the "making" part? some things faster, some 
 open file formats ae superior. Undersatnd what is in them in a way you can't w/ proprietary file types.
 
 Open fonts are superior pedagogically. You can actually see the insides of a font w/out needing to do anything else.
+
+Type design is a place that seems to be doing pretty well open source wise... why type but not other graphic design places? Is it because we're accustomed to revival typefaces, but not revival layouts or logos? Is it because typefaces are more like tools and objects, and less purely formal, visual metaphors? What???
+
+From a typographic stand point, libre fonts are superior pedagogically. Students can look at and legally experiment with the actual insides of a typeface. Useful for also learning some actual typographic design -- can build onto, fork and build anew, or addsomething to an existing typeface w/out fear of retribution! Better experiential learnng enabled?
 
 Type design is a place that seems to be doing pretty well open source wise... why type but not other graphic design places? Is it because we're accustomed to revival typefaces, but not revival layouts or logos? Is it because typefaces are more like tools and objects, and less purely formal, visual metaphors? What???
 
@@ -124,22 +144,26 @@ Do unto others?
 
 How to get to teaching?
 
-## A New toolbox
+## A New toolbox?
+
+## One Cloud to Rule them All?
 
 What are we teaching in our graphic design classes? Are we teaching students to use the Adobe Creative Suite -- or are we teaching them designing?
 
 How does the new toolbox solve whatever things I mention before???
 
-## One Cloud to Make them All
+How is teaching design different than teaching a specific tool? are some of these open tools better when it comes to learning designing over learning a software to enable the designing?
+
+Obviously, on one hand, we have a pragmatic situation: these are the tools of industry, pretty much every design studios my students are going to get jobs working at will be running Adobe Creative Suite on macs. Why would I not want to help students learn to use these things in my classes? But then I run into an issue -- I don't know that the computer software we use to do these things will be the computer software we always use to do these things... how closely is the "designing" I'm teaching linked to the "softwareing"? Can I teach a student all the same time and motion concepts without ever having them use After Effects?
+
+Are the tools the issue or is it just the file formats? Regardless of paper or pencil brand I can draw the way I've learned to draw... regardless of paint I buy I can paint what I wish to paint... regardless of circular saw and hammer or typeface I can make a reasonable bench or poster... Are the digital tools we use which have replaced our hand tools so different that they cannot be replaced? WTF am I saying?
 
 Adobe more or less has a monoply on the toolset of the visual designer. Worldwide most designers, studios, and educational programs rely on Adobe tools to output their visuals (more physical good related things might be reliant on all autodesk suites of things instead, but the point more or less stands).
 
 Is there a pedagogical or ethical problem with that? Is it made worse by the fact that we can't get at any of the components under the hood? and I don't mean make or modify the software, I just mean even the basics of having file formats that aren't easily interchangeable or editable w/out their tools. Most of the libre design tools use some sort of open format, or at least text-editable format if you are mising the program. Scribus and Nodebox for example, their file formats are really both just special xml documents. Opening in a text editor means you can still pretty easily "read" the design even if you can't see it. This means that you can edit, improve, and reflow your file w/out even needing to have Scribus installed! If you can figure out the xml, you can make actual meaningful edits to your layout w/out the gui! Try that in Indesign.
 
-»»»
-
-Teaching is more difficult than learning because what teaching calls for is this: to let learn. The real teacher, in fact, lets nothing else be learned than learning. His conduct, therefore, often produces the impression that we learn nothing from him, if by 'learning' we now suddenly understand merely the procurement of useful information. -- Martin Heidegger
-
 --------------------------------------------------------------------------------
 
 [1]: F/LOS stands for "Free/Libre Open Source," it describes anything that fits into the realm of "free as in freedom," either the original Richard Stallman, GNU meaning of "free," to the more contemporary business friendly open source... It is also employed as F/LOSS -- the last S meaning "Software" -- Free/Libre Open Source Software.
+
+[2]: Eric Schrijver, This is the First Day of the rest of my life... (Libre design mag?)
