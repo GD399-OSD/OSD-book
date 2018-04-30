@@ -1,14 +1,53 @@
 # F/LOS Regularly
 
+"How come developers have latched onto the open source movement, but designers have not?" -- Garth Braithwaite
+
 Free/Libre Open Source software (F/LOSS) powers much of the web and the modern tech world. F/LOS hardware powers all manner of maker spaces, workshops, and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design?
 
-The main way a contemporary designer might interface with open source is through various technologies or frameworks, maybe an operating system -- Facebook React[^], Adobe Brackets[^] and Phone Gap[^], Bootstrap, Google Android, many of the underlying technologies to Dropbox[^], etc. It's also likely that you've seen or used an open source font (The IBM Plex typeface got some press and fonts.google.com serves free and open source fonts exclusively, some of which are in use on millions of websites across the internet -- there are now some really good ones there FYI). But, despite most of the internet being powered by open source tools (Linux, Apache, Node, PHP, Wordpress, React, Drupal, etc.), and that web designers increasingly rely on F/LOS frameworks and text editors and file formats to do their work, visual design itself has yet to embrace the F/LOS tools available to it.
+The main way a contemporary designer might interface with open source is through technologies or frameworks, maybe an operating system -- Facebook React[^], Adobe Brackets[^] and Phone Gap[^], Bootstrap, Google Android, many of the underlying technologies to Dropbox[^] (a lot of non-open things are built on top of open things), etc. It's also likely that you've seen or used an open source font (The IBM Plex typeface got some press and fonts.google.com serves free and open source fonts exclusively, many of which are in use on millions of websites across the internet[^] (there are now some really good ones there FYI)). But, despite most of the internet being powered by open source tools (Linux, Apache, MySQL, Node, PHP, Wordpress, React, Drupal, etc.), and that web designers increasingly rely on F/LOS frameworks and text editors and file formats to do their work, visual design itself has yet to embrace the F/LOS tools nor F/LOS methods available to it.
 
-F/LOS in a graphic design context provides alternative tools for the creation of designs (Inkscape, Nodebox), file formats that are easier to port across a range of systems and tools (SVG, XML), and a different ideological framing for the creation of cultural artifact (Free as in Freedom). Engaging in making with the tools, formats, and ideas creates new opportunities for learning and creating. Through these lenses F/LOS is a useful critical tool for the discipline.
+F/LOS in a graphic design context provides alternative tools for the creation of designs (Inkscape, Nodebox), file formats that are easier to port across a range of systems and tools (SVG, XML), and a different ideological framing for the creation of cultural artifact (Free as in Freedom, increased collaboration). Engaging in making with the tools, formats, and ideas creates new opportunities for learning and creating. Through these lenses F/LOS is a useful critical tool for the discipline.
+
+## A Starting place
+
+A cursory google search for "Open Source Design" quickly returns a wonderful place to start seeing how F/LOS might immediately have impact in graphic design. Garth Braithwaite, a designer at Adobe (originally for the open source text editor Brackets, now on some other open source projects, but still at Adobe), founded an organization called "Design Open." Their founding manifesto is as follows:
+
+I will:
+
+- find opportunities to design in the open
+- share my design experiences; both the good and the bad
+- find time for meaningful projects
+- openly participate in design discussions
+- work with other designers by choice
+- improve my toolbox
+
+... having this mentality has potential to help us leave the design industry better than we found it. [Open Source Design Manifesto]
+
+Braithwaite acknowledges that not all design projects are "open-able" -- say you are working on a branding project -- that final logos, wordmarks, systems, etc. aren't meant to be "open" -- you don't want another designer to just wholesale fork and copy and reuse that. However, how the brand guidelines themselves are setup might be a thing to share, or the process you used to arrive at the final product could be shared, or the discarded work might be shareable and reusable after the fact. Those are all ways to be "open" in your designing, even if you cannot "share the source" the way Stallman, et al. would want.
+
+Open source design does not mean so open that it is designed by community.
+
+Sharing process, especially the failutes, really helps. Don't forget to mention who inspired you as you go. Be open. Use tools available to sharing -- Braithwaite mentions dribbble, his talk shows its age there, but the point remains: post as you are working, show how things evolve. This is how open software is developed, and how vernacular design generally progressed. Braithwaite mentions one clever thing on dribble -- the rebound! something that actually invites taking something and visually riffing, adding, or remixing to be shared again. This is often what design is missing, or what deisgn has not embraced that some of these other things have.
+
+## Be the Designer with a bigger toolbox
+
+An advanatage to these F/LOS tools is that since they use file types that are built on open standards, and that are often just specialty versions of XML files, they are just text files! they can relaly easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
+
+SVG?
+
+Scribus XML files?
+
+Nodebox XML files?
+
+What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible?
+
+Is it important that the source is shareable or is it important that the spirit is embraced?
 
 ## Free as in Freedom
 
-F/LOS mythologies typically begin with Richard Stallman's creation of GNU. This story includes some version of the following: Stallman is working away at the MIT AI lab. Their printer is slow and so Stallman asks for the source code and fixes the problem. The next version of the printer has the same issue -- but Xerox will not send over the source. This is the straw that breaks the camel's back as it were, and Stallman runs off to start the GNU project so that he can avoid nondisclosures and proprietary software and be free to share with his programming neighbors.
+Jump right into Dunne and raby?
+
+F/LOS mythologies normally begin with Richard Stallman's creation of GNU. This story includes some version of the following: Stallman is working away at the MIT AI lab. Their printer is slow and so Stallman asks for the source code and fixes the problem. The next version of the printer has the same issue -- but Xerox will not send over the source. This is the straw that breaks the camel's back as it were, and Stallman runs off to start the GNU project so that he can avoid nondisclosures and proprietary software and be free to share with his programming neighbors.
 
 Reading the GNU manifesto and the other documents on the GNU site, Stallman's personal site, and the various histories and examinations of
 
@@ -23,7 +62,9 @@ A program is free software, for you, a particular user, if:
 - You have the freedom to redistribute copies, either gratis or for a fee.
 - You have the freedom to distribute modified versions of the program, so that the community can benefit from your improvements.
 
-The origins of F/LOS are in a Dunne and Raby-ian critical design vein. Stallman's thinking and subsequent release of GNU is a critique of mainstream, closed software.
+Stallman is adamant that these freedoms are the key to making software "good."
+
+The origins of F/LOS are in a Dunne and Raby-ian critical design vein. Stallman's thinking and subsequent release of GNU is a critique of what mainstream, proprietary software became.
 
 "The principal goal of GNU is to be free software. Even if GNU had no technical advantage over Unix, it would have a social advantage, allowing users to cooperate, and an ethical advantage, respecting the user's freedom." [^About The Gnu Project- <https://www.gnu.org/gnu/thegnuproject.html>]
 
@@ -31,7 +72,9 @@ Proprietary software developers have the advantages money provides; free softwar
 
 "Free software" and "open source" describe the same category of software, more or less, but say different things about the software, and about values. The GNU Project continues to use the term "free software", to express the idea that freedom, not just technology, is important. [^About The Gnu Project- <https://www.gnu.org/gnu/thegnuproject.html>]
 
-Anthony Dunne and Fiona Raby posit in "Designer As Author" that designers increasingly consider "alternative visions to those put forward by industry."[^Designer as Author] F/LOS presents real opportunities for doing just this. F/LOSS -- Linux, GIMP, Inkscape, Scribus for example -- is _not_ what the mainstream design industry is using. These not only provide alternative softwares that can be critical of "affirmative" (to use D&R's language) tools like Adobe Creative Cloud or Autodesk's suite of programs, but they also come from a differing set of ideological places.
+Stallman is really here creating a critical design stance. Good segway to D&R.
+
+Anthony Dunne and Fiona Raby posit in "Designer As Author" that designers increasingly consider "alternative visions to those put forward by industry."[^Designer as Author] F/LOS presents real opportunities for doing just this. Stallman's framing of GNU is exactly this -- GNU is _not_ what the mainstream software is doing. So perhaps by using F/LOSS then a designer immediately engages in a ciritcal design exercise. Inkscape, Linux, Scribus, etc. are _not_ what the design industry is using. These not only provide alternative softwares that can be critical of "affirmative" designs (to use D&R's language) tools like Adobe Creative Cloud or Autodesk's suite of programs, but they also come from a differing set of ideological places.
 
 "Objects that are critical of industry's agenda are unlikely to be funded by industry ... Deisgn needs to mature and find ways of operating outside the tight constraints of servicing industry." [^designer as author]
 
@@ -45,7 +88,7 @@ Tracing the lineage of "Open Source" one is led back to Richard Stallman's GNU M
 
 If proprietary tools create such a problematic ethical scenario, then these ideals are ripe for using critically as well. The tools themselves are easily downloaded and accessed by anyone with an internet connection and semi-modern computer running Linux, Windows or OSX (well, in theory, maybe not fully in practice). So, these are not extreme in and of themselves -- the tools are realistic while the ideals are extreme. Seen this way F/LOS fulfills a different set of Dunne and Raby's ideas -- it can become a design fiction. Presenting an alternative, albeit fictional present to provoke designers into questioning their tools, ethics, and ...
 
-That places us in an interesting place -- using Free/Libre/Open Source as a way to create a "fiction" with which to critque the current design industry. One that is a monoculture of operating system, software, and aesthetics. A Wall of aluminum with glowing fuits, and a certain creative cloud being where everyone's inspirations and tools for output now live. Mr. Keedy also talks about the "global style"...
+That places us in an interesting place -- using Free/Libre/Open Source as a way to create a "fiction" with which to critique the current design industry. One that is a monoculture of operating system, software, and aesthetics. A Wall of aluminum with glowing fuits, and a certain creative cloud being where everyone's inspirations and tools for output now live. Mr. Keedy also talks about the "global style"...
 
 Mr. Keedy in _The Global Style: Modernist Typography after Postmodernism_ writes that international style designers intentionally abandoned local and regional traditions for "a new universal visual language that became the default style of corporate capitalism." In Keedy's view, we now have a new "Global Style" that does much the same, only for cultural institutions. A search on google images, pinterest, or visit to trendlist.org will privde copious examples of what Keedy describes: "white space backgrounds, sans-serif typefaces, minimalist asymmetrically balanced compositions with limited color palette. No xtraneous decoratoin, ornament or complex patterns ..."
 
@@ -91,6 +134,10 @@ okay! so now how to wrap this up???
 
 - How does all of this fit together?
 - What's the take away as designers? (ideals/tools/reuse/access/transparency/etc.?)?
+
+## Free doesn't mean easy
+
+There are barriers to doing this as a visual designer. The main one is by choosing openness, transparency, and sharing you are working in a way that is at odds w/ much of how
 
 --------------------------------------------------------------------------------
 
