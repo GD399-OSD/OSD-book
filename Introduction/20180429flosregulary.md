@@ -1,16 +1,47 @@
 # F/LOS Regularly
 
-Free/Libre Open Source software (F/LOSS) powers much of the web and the modern tech world. F/LOS hardware powers all manner of maker spaces, workshops, and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design?
-
-F/LOS in a graphic design context is a useful critical tool. F/LOS's ideals are often outside mainstream capitalism's, providing alternative models for creation and authorship for a design industry increasingly focused on serving clients[rudnick?] (functioning within mainstream capitalism).
+Free/Libre Open Source software (F/LOSS) powers much of the web and the modern tech world. F/LOS hardware powers all manner of maker spaces, workshops, and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design? This paper will analyze some pragmatic and some utopian ways graphic design can learn from F/LOS.
 
 Free/Libre Open Source Software (F/LOSS) has a wide reach. GNU/Linux, an open source operating system, and open programs and modules run websites and applications we rely on daily. Open Source has even extended into the corporate sector (at least start up wise) -- Facebook React[^], Adobe Brackets[^] and Phone Gap[^], the IBM Plex typeface[^], many of the underlying technologies to Dropbox[^], etc. -- But, despite most of the internet (and increasingly enterprise backends) running on open source tools (Linux, Apache, Node, PHP, React, etc.) visual design has yet to fully embrace these tools and ideas. What does visual design gain (or preserve?) by not dipping its toes into free/libre/open source? What can we bring to graphic design from F/LOS communities?
 
 Open source software powers much of the web and the modern tech world. Open source hardware powers all manner of maker spaces, workshops and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design?
 
+F/LOS in a graphic design context provides alternative tools for the creation of designs, a different ideological framing for how to think about creating cultural artifacts, and through these lenses is a useful critical tool. F/LOS's ideals are often outside mainstream capitalism's, providing alternative models for creation and authorship for a design industry increasingly focused on serving clients[rudnick?] (functioning within mainstream capitalism).
+
 ## Free as in Freedom
 
 "We need utopian thinking because without it, we are constrained by the tyranny of the possible." -- Stephen Duncombe[^Open Fields]
+
+```
+Free as in freedom
+The term “free software” is sometimes misunderstood—it has nothing to do with price. It is about freedom. Here, therefore, is the definition of free software.
+
+A program is free software, for you, a particular user, if:
+
+You have the freedom to run the program as you wish, for any purpose.
+You have the freedom to modify the program to suit your needs. (To make this freedom effective in practice, you must have access to the source code, since making changes in a program without having the source code is exceedingly difficult.)
+You have the freedom to redistribute copies, either gratis or for a fee.
+You have the freedom to distribute modified versions of the program, so that the community can benefit from your improvements.
+Since “free” refers to freedom, not to price, there is no contradiction between selling copies and free software. In fact, the freedom to sell copies is crucial: collections of free software sold on CD-ROMs are important for the community, and selling them is an important way to raise funds for free software development. Therefore, a program which people are not free to include on these collections is not free software.
+
+Because of the ambiguity of “free”, people have long looked for alternatives, but no one has found a better term. The English language has more words and nuances than any other, but it lacks a simple, unambiguous, word that means “free”, as in freedom—“unfettered” being the word that comes closest in meaning. Such alternatives as “liberated”, “freedom”, and “open” have either the wrong meaning or some other disadvantage.
+```
+
+[From GNU]
+
+F/LOS mythologies typically begin with Richard Stallman's creation of GNU. This story includes some version of the following: Stallman is working away at the MIT AI lab. Their printer is slow and so Stallman asks for the source code and fixes the problem. The next version of the printer has the same issue -- but Xerox will not send over the source. This is the straw that breaks the camel's back as it were, and Stallman runs off to start the GNU project so that he can avoid nondisclosures and proprietary software and be free to share with his programming neighbors.
+
+Reading the GNU manifesto and the other documents on the GNU site, Stallman's personal site, and the various histories and examinations of
+
+Go through the GNU manifesto and mark how its useful ideologically?
+
+The origins of F/LOS are in a Dunne and Raby-ian critical design vein. Stallman's thinking and subsequent release of GNU is a critique of mainstream, closed software.
+
+"The principal goal of GNU is to be free software. Even if GNU had no technical advantage over Unix, it would have a social advantage, allowing users to cooperate, and an ethical advantage, respecting the user's freedom." [^About The Gnu Project- <https://www.gnu.org/gnu/thegnuproject.html>]
+
+Proprietary software developers have the advantages money provides; free software developers need to make advantages for each other. [^About The Gnu Project- <https://www.gnu.org/gnu/thegnuproject.html>]
+
+"Free software" and "open source" describe the same category of software, more or less, but say different things about the software, and about values. The GNU Project continues to use the term "free software", to express the idea that freedom, not just technology, is important. [^About The Gnu Project- <https://www.gnu.org/gnu/thegnuproject.html>]
 
 Anthony Dunne and Fiona Raby posit in "Designer As Author" that designers increasingly consider "alternative visions to those put forward by industry."[^Designer as Author] F/LOS presents real opportunities for doing just this. F/LOSS -- Linux, GIMP, Inkscape, Scribus for example -- is _not_ what the mainstream design industry is using. These not only provide alternative softwares that can be critical of "affirmative" (to use D&R's language) tools like Adobe Creative Cloud or Autodesk's suite of programs, but they also come from a differing set of ideological places.
 
@@ -44,7 +75,17 @@ Raymond's analysis is in depth and supported with his own experiments utilizing 
 
 Stewart Brand in his book _How Buildings Learn_ dissects vernacular building. He describes a process that predates the Linux community, yet his description of how a cape cod house came to being sounds uncannily similar to Raymond describing the linux community collaborating on their kernel together. If software can be designed and constructed this way, and vernacular objects can evole this way, why not contemporary visual design?
 
+Stewart Brand's How Buildings Learn is an in-depth examination of the concepts of vernacular building. First printed in 1994, How Buildings Learn provides a careful dissection of historic, cultural architecture in America. Brand has had a lifelong impact on progressive thinking and the sustainability movement through the Whole Earth Catalog (which he helped found in 1968), the first Hacker's Conference (1984), and the Long-Now foundation (1996). He has at times been a soldier, hippie, observer, critic, organizer, philosopher, and nerd of the highest degree. Because of his varied interests, Brand approaches the vernacular with a scholarly rather than aesthetic view.
+
+In Brand's more academic view, the vernacular process (which he also refers to as "adaptive building") is a systematic framework for evolving concepts. A culture steadily culminates these frameworks over time. Traditions subsequently arise allowing vernacular designers to reuse the invented forms and methods for common, everyday (design?) tasks. Contemporary design typically looks for new (or novel?) or wholely unique solution to a given problem, which is counter-productive to creating traditions.
+
+The vernacular's evolutionary model is predominantly based on Constraint. The key sub-constraints in my thinking today are Durability are Thrift. These same principles applied to the modern-day practice of design offer concrete, actionable ways for design to move forward towards the sustainable and the better.
+
 If open source is really the new vernacular, then something like this: "It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>) makes so much sense!
+
+Stewart Brand defines vernacular as the indigenous building of a place. Vernacular more broadly means common designs by common people. What makes cultural common-ness so special is its ability to evolve steadily over time. Common features survive the passage of time when they are generally understood as "good." Over years, the vernacular incorporates more and more "good" features while eradicating "bad" ones.
+
+While we (as professional designers) cannot always behave as conservatively as vernacular designers, that doesn't mean we cannot adopt their "common" ideals of constraint, durability, and thrift. In design we can always pile new ideas on top of old ones. We do not have to reinvent the wheel each time we tackle a problem. Ideas imported from elsewhere, if better at solving problems than our current ideas, are easy to incorporate (this is how present-day open-source communities function). Our role must be to take the cautious, evolving methodology of vernacular design and apply it alongside our contemporary technologist tendencies and conceptual processes.
 
 It's really how we've been designing our entire human existence. how can designers recapture this??? (is this defendable?)
 
