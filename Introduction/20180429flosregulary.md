@@ -23,9 +23,9 @@ You have the freedom to distribute modified versions of the program, so that the
 Since “free” refers to freedom, not to price, there is no contradiction between selling copies and free software. In fact, the freedom to sell copies is crucial: collections of free software sold on CD-ROMs are important for the community, and selling them is an important way to raise funds for free software development. Therefore, a program which people are not free to include on these collections is not free software.
 
 Because of the ambiguity of “free”, people have long looked for alternatives, but no one has found a better term. The English language has more words and nuances than any other, but it lacks a simple, unambiguous, word that means “free”, as in freedom—“unfettered” being the word that comes closest in meaning. Such alternatives as “liberated”, “freedom”, and “open” have either the wrong meaning or some other disadvantage.
-```
 
 [From GNU]
+```
 
 F/LOS mythologies typically begin with Richard Stallman's creation of GNU. This story includes some version of the following: Stallman is working away at the MIT AI lab. Their printer is slow and so Stallman asks for the source code and fixes the problem. The next version of the printer has the same issue -- but Xerox will not send over the source. This is the straw that breaks the camel's back as it were, and Stallman runs off to start the GNU project so that he can avoid nondisclosures and proprietary software and be free to share with his programming neighbors.
 
