@@ -75,7 +75,7 @@ Raymond's analysis of his own project present two other keys to Linux's success.
 
 Version control: Without any way to track and merge changes this crowd enabled designing isn't very possible. Linus also invented git, a way to track and coordinate files among many users. There are starting to be some much easier to understand visual editors for git workflows. This should start to aid designers in getting into version control as well.
 
-BRaithwait proposes that designers start using github.
+Braithwaite proposes that designers start using github.
 
 Open design is not so open that it is design by committee. Be clear that it is collaborating, not codesigning.
 
@@ -87,7 +87,7 @@ enzo mari Autoprogettazione? also drew from vernacular sources. Counter culture 
 
 ## Free as in Freedom
 
-Raymond tells everyone the above version of the Linux story. Raymond's points seem to inspire a lot of poeple and he then goes onto found the open source foudnation and works through the rest of the 90s and early 2000s encouraging tech and communities at large to take advantage of open source ideas. Hurray open source wins (wired article? <https://www.wired.com/2016/08/open-source-won-now/>) now what? That part of the story only covers the Open Source part of F/LOS.
+Raymond tells everyone the above version of the Linux story. Raymond's points seem to inspire a lot of people and he then goes onto found the open source foundation and works through the rest of the 90s and early 2000s encouraging tech and communities at large to take advantage of open source ideas. Hurray open source wins (wired article? <https://www.wired.com/2016/08/open-source-won-now/>) now what? That part of the story only covers the Open Source part of F/LOS.
 
 - sharing and transparency is importnat
 - community building (& documentation?)
