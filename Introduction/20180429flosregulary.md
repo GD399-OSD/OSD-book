@@ -6,7 +6,7 @@ Free/Libre Open Source software (F/LOSS) powers much of the web and the modern t
 
 "Why have developers latched onto the open source movement, but designers have not?" -- Garth Braithwaite
 
-A web search for "Open Source Design" returns a wonderful place to start understanding how F/LOS can immediately have an impact in graphic design. Garth Braithwaite, a designer at Adobe (originally for the open source text editor Brackets, now on some other open source projects still within Adobe), founded an organization called "Design Open" (originally named Open Source Design [DATES!]) Braithwaite's founding manifesto is:
+A web search for "Open Source Design" returns an easy place to start understanding how F/LOS can have an impact in graphic design. Garth Braithwaite, a designer at Adobe (originally for the open source text editor Brackets, now on some other open source projects still within Adobe), founded an organization called "Design Open" (originally named Open Source Design [DATES!]) Braithwaite's founding manifesto is:
 
 I will:
 
@@ -19,11 +19,11 @@ I will:
 
 [Open Source Design Manifesto]
 
-With the _Open Design Manifesto_, and a subsequent talk called "Designers Can Open Source," Braithwaite explores simple actions for designers to immediately become more "open." This revolves around an increase in general sharing: "Sharing process, especially the failures, really helps" and "post as you are working, show how things evolve." This then (hopefully) creates a new kind of design ecosystem where designers are much friendlier and collaborative with their neighbors -- more un-self-concious.
+With the _Open Design Manifesto_, and a subsequent 2013 talk called "Designers Can Open Source,"[cite treehouse?] Braithwaite explores simple actions for designers to immediately become more "open." This revolves around an increase in general sharing: "Sharing process, especially the failures, really helps" and "post as you are working, show how things evolve." This (hopefully) creates a new kind of design ecosystem where designers are much friendlier and collaborative with their neighbors -- more un-self-concious.
 
-Use tools available to sharing (github, dribbble). This is how open software is developed -- try to use the same tools if possible. Braithwaite mentions a feature of dribble: the rebound! something that actually invites taking something and visually riffing, adding, or remixing to be shared again. This is often what design is missing, or what design has not embraced that open source software has.
+What might help with unselfconcious sharing? Braithwaite points to two tools available to open source software: git and github. Why don't we try to use the same tools if possible? Git is a version control language ... github is about sharing and forking and mergeing ... its also about discussion and building a community around apiece of software or code. Github might be hard and unintuitive for a designer, but, dribbble was designed for designers! Braithwaite mentions a feature of dribbble: the rebound! something that actually invites the taking something and visually riffing, adding, or remixing to be shared again. This is often what designer's are not doing: un self conciously "rebounding" each other's work. Sadly, while the discussions that evolve in a github repo are often in order to solve problems associated with that code. The conversations that evolve on a dribbble are often just cursory accolades.
 
-That's nice. Designers should share. This is an easy place to start, and yields some potential, but what's next? Braithwaite tells us that designers should be more transparent in how we work, we should share more, but does he give us enough to really start? what about the tools? are there other ideas and tools that would be effective in accelerating this?
+Braithwaite tells us that designers should be more transparent in how we work, we should share more, and he starts to scratch the surface -- but does he give us enough to start? what about the tools? are there other ideas and tools that would be effective in accelerating this? Where did the sharing ecosystem present in Open Source software come from?
 
 ## Linus's Law?
 
