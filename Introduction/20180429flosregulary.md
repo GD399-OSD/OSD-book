@@ -2,10 +2,6 @@
 
 Free/Libre Open Source software (F/LOSS) powers much of the web and the modern tech world -- Facebook React, Twitter Bootstrap, Google Android (and a lot of non-open things are built on top of permissive open things: Safari, Dropbox, etc). Designers have certainly seen and used an open source font (IBM Plex typeface, Google Fonts makes F/LOS type viewable on millions of websites across the internet (Open Sans is featured in more than 19,000,000 websites[CITE])). But, despite most of the internet being powered by open source tools (Linux, Apache, MySQL, Node.js, Drupal, etc.), and that web designers increasingly rely on F/LOS frameworks, text editors, fonts, and file formats to do their work, visual design has yet to embrace tools nor methodologies available to it. F/LOS in graphic design furnishes different ideological framing for the creation of cultural artifacts (Free as in Freedom, increased collaboration, community). Engaging in making with the tools, formats, and ideas creates new opportunities for learning and creating. Through these lenses F/LOS is a useful critical tool for the discipline.
 
-## What is F/LOSS?
-
-Do I need to do this at the beginning? is the way I cover things enough??? How do we put the same ideas and mechanisms towards the benefit of Graphic Design?
-
 ## A Starting place
 
 "Why have developers latched onto the open source movement, but designers have not?" -- Garth Braithwaite
@@ -138,6 +134,10 @@ Is it important that the source is shareable or is it important that the spirit 
 --------------------------------------------------------------------------------
 
 "It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>)
+
+## What is F/LOSS?
+
+Do I need to do this at the beginning? is the way I cover things enough??? How do we put the same ideas and mechanisms towards the benefit of Graphic Design?
 
 --------------------------------------------------------------------------------
 
