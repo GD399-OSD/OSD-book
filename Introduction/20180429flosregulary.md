@@ -1,5 +1,7 @@
 # F/LOS Regularly
 
+Am I relying to heavily on my sources???
+
 "Why have developers latched onto the open source movement, but designers have not?" -- Garth Braithwaite
 
 Free/Libre Open Source software (F/LOSS) powers much of the web and the modern tech world. F/LOS hardware powers all manner of maker spaces, workshops, and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design?
@@ -27,21 +29,33 @@ With his _Open Design Manifesto_, and a subsequent talk called "Designers Can Op
 
 Don't forget to mention who inspired you as you go. Be open. Use tools available to sharing (github, dribbble). This is how open software is developed -- try to use the same tools if possible. Braithwaite mentions one clever thing on dribble -- the rebound! something that actually invites taking something and visually riffing, adding, or remixing to be shared again. This is often what design is missing, or what design has not embraced that open source software has.
 
-Open source design does not mean so open that it is designed by community.
+Open source design does not mean so open that it is designed by community. Pretty clear that this is collaborating, not co-designing.
 
-Eric Raymond in his essay _The cathedral and the bazaar_ explains how the birth of the linux kernel really created the contemporary idea of open source -- not just that the tools are open and free (as in freedom) -- but that a whole community might actually engage in its advancement. (The GNU creation and maintenance up until that point had, while available to anyone to use, been maintained by limited groups of developers, Linus Torvald was the first to use the methodology we now associate with "Open Source")...[TCATB - intro stuff? TCATB actual essay]
+That's nice. Designers should share. But how? IF a key part of the F/LOS ecosystem is that sharing and collaboration are built into the culture and systems and tools how is that done? what can we learn to make sharing more present in our designing?
 
-Raymond's analysis is in depth and supported with his own experiments utilizing the same systems. That our contemporary open source communities utilize these commonal, shared practices seems novel. This sounded familiar.
+This is an easy place to start, and yields some good things, but is there more? Braithwaite tells us that designers should be more transparent in how we work, we should share more, but does he give us enough how? what about the tools? are there other ideas and tools that would be effective in accelerating this?
+
+## Linus's Law?
+
+The Open Design Manifesto summarizes some important thinking that was surfaced in an essay called _The Cathedral and the Bazaar_ by Eric Raymond. Raymond explains how the birth of the linux kernel and the systems that grew up around it are what created the contemporary structures necessary for our current definitions of open source -- mainly that a whole distributed community might actually engage in a tool's advancement. Linus Torvalds, the original programmer behind the linux kernel (and still the main maintainer of the linux project as it has grown), practiced several new, at the time, techiniques in sharing his growing code. As soon as a semi-functioning version of Linux was working, it would be posted for others to use. This "release early, release often" maxim flew in the face of existing software development practice at the time (early 90's). One did not want to release buggy code, as it was feared that the users would grow weary. Raymond found, however, that this was not the case with Linux. "[I]t was clear that something different and much healthier was going on [with Linux]." The success was in how Torvalds was treating his users, and in who his users were.
+
+The biggest key to all of this was "Linus's Law" as Raymond ended up naming it. Linus's law (cite raymond + the wikipedia page?) states that "Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone," or "Given enough eyeballs, all bugs are shallow." The early Linux ecosystem was a pool of sharing developers. The people using the tools were the same one's equiped to find problems with the tools and then actually do something about those problems. By sharing -- successes and failures -- the success of Linux actually increased faster than it would have otherwise.
+
+Raymond's analysis is in depth and supported with his own experiments utilizing the same ideas. Raymond built an email program using all the same methodologies he pulled from the Linux community. Much of our contemporary open source communities still utilize these common, shared practices too.
+
+How can designers take advantage of these same things?
+
+All this sharing back and forth, community bug fixing, iterating and evolving a tool: this sounded familiar.
 
 Stewart Brand in his book _How Buildings Learn_ dissects vernacular building. He describes a process that predates the Linux community, yet his description of how a cape cod house came to being sounds uncannily similar to Raymond describing the linux community collaborating on their kernel together. If software can be designed and constructed this way, and vernacular objects can evole this way, why not contemporary visual design?
 
-Stewart Brand's How Buildings Learn is an in-depth examination of the concepts of vernacular building. First printed in 1994, How Buildings Learn provides a careful dissection of historic, cultural architecture in America. Brand has had a lifelong impact on progressive thinking and the sustainability movement through the Whole Earth Catalog (which he helped found in 1968), the first Hacker's Conference (1984), and the Long-Now foundation (1996). He has at times been a soldier, hippie, observer, critic, organizer, philosopher, and nerd of the highest degree. Because of his varied interests, Brand approaches the vernacular with a scholarly rather than aesthetic view.
+Vernacular architecture? now that I think I can apply to visual designing...
+
+Stewart Brand's How Buildings Learn is an in-depth examination of the concepts of vernacular building. First printed in 1994, _How Buildings Learn_ provides a dissection of historic, cultural architecture in America. Brand has had a lifelong impact on progressive thinking and the sustainability movement through the _Whole Earth Catalog_ (which he helped found in 1968), the first Hacker's Conference (1984), and the Long-Now foundation (1996). Because of his varied interests, Brand approaches the vernacular with more than just an aesthetic view.
 
 In Brand's more academic view, the vernacular process (which he also refers to as "adaptive building") is a systematic framework for evolving concepts. A culture steadily culminates these frameworks over time. Traditions subsequently arise allowing vernacular designers to reuse the invented forms and methods for common, everyday (design?) tasks. Contemporary design typically looks for new (or novel?) or wholely unique solution to a given problem, which is counter-productive to creating traditions.
 
-The vernacular's evolutionary model is predominantly based on Constraint. The key sub-constraints in my thinking today are Durability are Thrift. These same principles applied to the modern-day practice of design offer concrete, actionable ways for design to move forward towards the sustainable and the better.
-
-If open source is really the new vernacular, then something like this: "It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>) makes so much sense!
+The diagram of the houses evolving???
 
 Stewart Brand defines vernacular as the indigenous building of a place. Vernacular more broadly means common designs by common people. What makes cultural common-ness so special is its ability to evolve steadily over time. Common features survive the passage of time when they are generally understood as "good." Over years, the vernacular incorporates more and more "good" features while eradicating "bad" ones.
 
@@ -51,9 +65,15 @@ It's really how we've been designing our entire human existence. how can designe
 
 What's important from Brand's explanation of the vernacular and Raymond's explanation of the bazaar model is the sharing, and lesser emphasis on individual ownership of the "thing" itself. I don't mean that there isn't individuality or uniqueness of ideas, etc. I mean that even if you have a new idea, you work to integrate it into the community resource, not market/sell it as your own separate things
 
+If open source is really the new vernacular, then something like this: "It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>) makes so much sense!
+
 ## Free as in Freedom
 
-Jump right into Dunne and raby?
+Jump right into Dunne and raby? Go from Hella Jongerius & Louise Schouwenberg to dunne and raby to stallman?
+
+Enzo mari fits into this part too?
+
+The origins of F/LOS are in a Dunne and Raby-ian critical design vein. Stallman's thinking and subsequent release of GNU is a critique of what mainstream, proprietary software became.
 
 F/LOS mythologies normally begin with Richard Stallman's creation of GNU. This story includes some version of the following: Stallman is working away at the MIT AI lab. Their printer is slow and so Stallman asks for the source code and fixes the problem. The next version of the printer has the same issue -- but Xerox will not send over the source. This is the straw that breaks the camel's back as it were, and Stallman runs off to start the GNU project so that he can avoid nondisclosures and proprietary software and be free to share with his programming neighbors.
 
@@ -69,10 +89,6 @@ A program is free software, for you, a particular user, if:
 - You have the freedom to modify the program to suit your needs. (To make this freedom effective in practice, you must have access to the source code, since making changes in a program without having the source code is exceedingly difficult.)
 - You have the freedom to redistribute copies, either gratis or for a fee.
 - You have the freedom to distribute modified versions of the program, so that the community can benefit from your improvements.
-
-Stallman is adamant that these freedoms are the key to making software "good."
-
-The origins of F/LOS are in a Dunne and Raby-ian critical design vein. Stallman's thinking and subsequent release of GNU is a critique of what mainstream, proprietary software became.
 
 "The principal goal of GNU is to be free software. Even if GNU had no technical advantage over Unix, it would have a social advantage, allowing users to cooperate, and an ethical advantage, respecting the user's freedom." [^About The Gnu Project- <https://www.gnu.org/gnu/thegnuproject.html>]
 
