@@ -47,9 +47,7 @@ How does a designer do this? A tool like Dribbble or Behance allows for the seei
 
 ## Spectacular Vernacular
 
-Linus's Law & Raymond's other explanations on the linux community bug finding and solving sounds a lot like other, older forms of cultural production. The release early and release often maxim, as well as the "many eyes make light problem solving," mirror older, vernacular processes.
-
-Stewart Brand's _How Buildings Learn_ dissects vernacular building and describes a process that predates the Linux community, yet sounds uncannily similar. In Brand's view, the vernacular process (which he synonymosly refers to as "adaptive building") is a systematic framework for evolving concepts. A culture steadily culminates these frameworks over time. Traditions subsequently arise allowing vernacular designers to reuse the invented forms and methods for common, everyday tasks. Contemporary design typically looks for new or unique solution to a given problem, which is counter-productive to creating traditions.
+Linus's Law & release early/release often are referencing older forms of cultural production: vernacular design processes. Stewart Brand's _How Buildings Learn_ dissects vernacular building and describes a process that predates the Linux community, yet sounds uncannily similar. In Brand's view, the vernacular process (which he synonymosly refers to as "adaptive building") is a systematic framework for evolving concepts. A culture steadily culminates these frameworks over time. Traditions subsequently arise allowing vernacular designers to reuse the invented forms and methods for common, everyday tasks. Contemporary design typically looks for new or unique solution to a given problem, which is counter-productive to creating traditions.
 
 Vernacular in this context means common designs by common people. What makes cultural common-ness special is its ability to evolve over time (and fairly easy replication ability). Common features survive the passage of time when they are generally understood as "good." Over years, the vernacular incorporates more and more "good" features while eradicating "bad" ones.
 
@@ -60,6 +58,8 @@ If software can be designed and constructed this way, and vernacular objects evo
 Visual designers can always pile new ideas on top of old ones. We do not have to reinvent the wheel each time we tackle a problem. Ideas imported from elsewhere, if better at solving problems than our current ideas, are easy to incorporate (exactly how present-day open-source communities function). Our role must be to take the cautious, evolving methodology of vernacular design and apply it alongside our contemporary technologist tendencies and conceptual processes. Wisdom _with_ speed...
 
 It's really how we've been designing our entire human existence. how can designers recapture this? Taking what was done and changing it subtly has been the normal means of cultural production until recently. If our design forbearers could create houses, chairs, clothes, tea kettles, broadsides, tapestries, etc. this way, surely new cultural agents today can find useful ways to collectively create?
+
+[better to use brand's HBL to jump to older counter-culturey things from 60s/70s as way to lead to GNU ideals? -- reference whole earth? DIY? enzo mari? that's a good switch to Dunne and Raby and Stallman?]
 
 Raymond's analysis of his own project present two other keys to Linux's success. One was fast friendly distribution over the internet, where all the variations, versions, and updates to Linux could live together and be (relatively easily) accessed. As contemporary designers one has ample access to the internet. There is no shortage of bandwidht and opportunites for sharing/distributing one's work.
 
