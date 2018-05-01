@@ -67,8 +67,6 @@ Raymond and Braithwaite are both clear that successful open source things need s
 
 If cultural artifacts were historically created this way, what happened? why did we stop? is it really just the markets fault? capitalism??? What other values of critical views might we find through our exploring?
 
-enzo mari Autoprogettazione? also drew from vernacular sources. Counter culture DIYers were the previous iteration of this ideal. Mari and Brand both had mail-away versions of this system for their physical objects. For mari, if you mailed him a self-addressed envelope, he sent you the instructions and explanation of his project. For Brand, he created the whole earth catalog, a way to collectively share all manner of materials and ideas in the late 60s through the 80s before everyone had access to the internet that helpe linux take off? These are also the same in concept, and had interesting design implications. Why was it (is it?) that the counter-cultural are drawn to these methods in contmeporary society?
-
 Raymond tells everyone the above version of the Linux story. Raymond's points seem to inspire a lot of people and he then goes onto found the open source foundation and works through the rest of the 90s and early 2000s encouraging tech and communities at large to take advantage of open source ideas. Hurray open source wins (wired article? <https://www.wired.com/2016/08/open-source-won-now/>) now what? That part of the story only covers the Open Source part of F/LOS.
 
 - sharing and transparency is importnat
@@ -83,38 +81,36 @@ But what got us to Open Source in the first place? Brand's vernacular is a a goo
 
 "Free software" and "open source" describe the same category of software, more or less, but say different things about the software, and about values. The GNU Project continues to use the term "free software", to express the idea that freedom, not just technology, is important. [^About The Gnu Project- <https://www.gnu.org/gnu/thegnuproject.html>]
 
-The origins of F/LOS are in a critical vein. Stallman's creation of GNU is a critique of what mainstream, proprietary software was turning into at the time. Stallman was writing computer code in the time where the vernacular models were being pushed out by proprietary models of culture creation. Specifically, proprietary computer code. This bothered Stallman as it was offending his morals. He decided to do something about it. / Tracing the lineage of "Open Source" one is led back to Richard Stallman's GNU Manifesto [@fat's talk][@garth DB's talk][TCATB by eric raymond too. Stallman's point of view is idealistic. If we take this ethical point of departure to think about why open source tools for design where does that lead us?[^GNU manifesto] (more history here???).
+The origins of F/LOS are in a critical vein. Stallman's creation of GNU is a critique of what mainstream, proprietary software was turning into at the time. Stallman was writing computer code in the time where the vernacular models were being pushed out by proprietary models of culture creation. Specifically, proprietary computer code.
+
+Stallman's point of view is idealistic. If we take this ethical point of departure to think about why open source tools for design where does that lead us?[^GNU manifesto] (more history here???).
 
 From _The GNU Project_:
 
-The term "free software" is sometimes misunderstood -- it has nothing to do with price. It is about freedom. Here, therefore, is the definition of free software. A program is free software, for you, a particular user, if:
+A program is free software, for you, a particular user, if:
 
 - You have the freedom to run the program as you wish, for any purpose.
 - You have the freedom to modify the program to suit your needs. (To make this freedom effective in practice, you must have access to the source code, since making changes in a program without having the source code is exceedingly difficult.)
 - You have the freedom to redistribute copies, either gratis or for a fee.
 - You have the freedom to distribute modified versions of the program, so that the community can benefit from your improvements.
 
-Anthony Dunne and Fiona Raby posit in _Designer As Author_ that designers should increasingly consider "alternative visions to those put forward by industry." F/LOS presents real opportunities for doing this. Stallman's framing of GNU _is exactly_ this -- GNU is _not_ what the mainstream software is doing. By being free as in freedom, Stallman has created opposition to proprietary, closed-ness that clearly states what is perceived as wrong. By using F/LOS software, not just the concepts or ideals, one immediately engages in a critical design exercise. Inkscape, Linux, Scribus, etc. are _not_ what the design industry is using. These not only provide alternative softwares that can be critical of "affirmative" designs tools like Adobe Creative Cloud or Autodesk's suite of programs, but they also come from a differing set of ideological places. The politics of the systems value freedom over saleable value. Does this become the most important aspect of F/LOS?
+The term "free software" is sometimes misunderstood -- it has nothing to do with price. It is about freedom.
 
-"Objects that are critical of industry's agenda are unlikely to be funded by industry ... " [^designer as author]
+Anthony Dunne and Fiona Raby posit in _Designer As Author_ that designers should increasingly consider "alternative visions to those put forward by industry." F/LOS presents real opportunities for doing this. Stallman's framing of GNU _is exactly_ this -- GNU is _not_ what the mainstream software is doing. By being free as in freedom, Stallman has created opposition to proprietary, closed-ness that clearly states what is perceived as wrong. By using F/LOS software, not just the concepts or ideals, one immediately engages in a critical design exercise. Inkscape, Linux, Scribus, etc. are _not_ what the design industry is using. These not only provide alternative softwares that can be critical of "affirmative" designs tools like Adobe Creative Cloud or Autodesk's suite of programs, but they also come from a differing set of ideological places. The politics of the systems value freedom over saleable value. Does this become the most important aspect of F/LOS?
 
 The marketplace actually looks semi-favourably on "Open Source." but, that terminology was specifics created to get the marketplace to look favorably on OS. Stallman has no interest or concern whether the marketplace is into Free software.
 
 If proprietary tools create problematic ethical scenarios, then F/LOS utopian thinking is ripe for using critically. The tools themselves are downloadable and accessed by anyone with an internet connection and semi-modern computer running Linux, Windows or OSX (well, in theory, maybe not fully in practice). So, these are not extreme in and of themselves -- the tools are realistic while the ideals are extreme. Seen this way F/LOS fulfills a different set of Dunne and Raby's ideas -- it can become a design fiction. Presenting an alternative, albeit fictional present to provoke designers into questioning their tools, ethics, and ...
 
-That places us in an interesting place -- using Free/Libre/Open Source as a way critique the current design industry. One that is a monoculture of operating system, software, and aesthetics. A Wall of aluminum with glowing fuits, and a certain creative cloud being where everyone's inspirations and tools for output now live.
+That places us in an interesting place -- using Free/Libre/Open Source as a way critique the current design industry. One that is a monoculture of operating system, software, and aesthetics. A Wall of aluminum with glowing fruits, and a certain creative cloud being where everyone's inspirations and tools for output now live.
 
 Designer David Rudnick points out that designing is increasingly focused on solving problems of a client, not problems of an audience.[^Strelka talk, Twitter?] Embracing F/LOS(S) is one way aaround this. Rudnick asks if we are serving the audience or the clients. In his best version of design, the audience is who matters. A client should be hiring you to help them help their audience, not just help them period. This aligns w/ stallman's view of the user and software.
-
-"If anything deserves a reward it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results." -- [GNU Manifesto]
 
 ## Free doesn't mean easy
 
 So we have on one hand a pragmatic approach that is based in the history of designing, the history of just how we as humans created cultural and societal artifacts, and on the other a critical design approach that intentionally positions itself as different from mainstream capitalist designing.
 
 So there is a spectrum of making that falls into "F/LOS designing." If you are on the critical design fence, then moving whole heartedly to all F/LOS replacements for the normal tools of a designer is required. It becomes almost a performance piece to intentionally point out the moderno-capitalist mono culture the F/LOS stance (again in Stallman-esque, Critical design-esque extreme terms) is in opposition too.
-
-okay! so now how to wrap this up???
 
 - How does all of this fit together?
 - What's the take away as designers? (ideals/tools/reuse/access/transparency/etc.?)?
@@ -125,13 +121,13 @@ License stuff?
 
 ## Be the Designer with a bigger toolbox
 
-An advanatage to these F/LOS tools is that since they use file types that are built on open standards, and that are often just specialty versions of XML files, they are just text files! they can relaly easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
+An advanatage to F/LOS tools is that since they use file types that are built on open standards, and that are often just specialty versions of XML files, they are just text files! they can relaly easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
 
-What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible?
+Advantage to F/LOS ideals in creating oppositional model useful for critiquing our mainstream culture. By choosing to use this surreal set of softwares (linux, scribus etc.) a designer is specifically saying "I am not using the same comptuer or software as you."
 
-Is it important that the source is shareable or is it important that the spirit is embraced?
+In terms of sharability.
 
-We get the internet, we've got version control, we're into the mindset of transparent and sharing, etc. Is that enogh? how does that make design/designing better? what does that do other than help on individual, creative levels?
+Is it important that the source is shareable or is it important that the spirit is embraced? F/LOS delivers uses file formats that are easier to port across a range of systems and tools (SVG, XML). What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We get the internet, we've got version control, we're into the mindset of transparent and sharing, etc. Is that enogh? how does that make design/designing better? what does that do other than help on individual, creative levels?
 
 --------------------------------------------------------------------------------
 
@@ -149,27 +145,3 @@ We get the internet, we've got version control, we're into the mindset of transp
 - Mr. Keedy's article, 'The Global Style' as it appears in the winter 2013/2014 issue of Slanted magazine. / <https://inform.design.calarts.edu/2015/01/the-new-global-style-revisited/>
 - <https://www.readingdesign.org/beyond-the-new>
 - <http://www.aboutlinux.info/2005/11/complete-concise-history-of-gnulinux.html>
-
---------------------------------------------------------------------------------
-
-F/LOS delivers uses file formats that are easier to port across a range of systems and tools (SVG, XML). Lastly,
-
-GarthDB:
-
-This isn't crazy or extreme, Braithwaite acknowledges that not all design projects or outcomes can be shared. One doesn't want another designer to just wholesale copy and reuse a logo one has made. However, how brand guidelines themselves are setup might be a thing to share, or the process you used to arrive at the final product could be shared, or the discarded work and why it was discarded might be shareable (and reusable?) after the fact. Those are all ways to be more "open" in your designing.
-
-Don't forget to mention who inspired you as you go. Be open.
-
-Open source design does not mean so open that it is designed by community. Pretty clear that this is collaborating, not co-designing.
-
-But how? If a key part of the F/LOS ecosystem is that sharing and collaboration are built into the culture and systems and tools how is that done? what can we learn to make sharing more present in our designing?
-
-Brand/HBL:
-
-Vernacular architecture? now that I think I can apply to visual designing...
-
-Brand has had a lifelong impact on progressive thinking and the sustainability movement through the _Whole Earth Catalog_ (which he helped found in 1968), the first Hacker's Conference (1984), and the Long-Now foundation (1996). Because of his varied interests, Brand approaches the vernacular with more than just an aesthetic view.
-
-GNU:
-
-"The principal goal of GNU is to be free software. Even if GNU had no technical advantage over Unix, it would have a social advantage, allowing users to cooperate, and an ethical advantage, respecting the user's freedom." [^About The Gnu Project- <https://www.gnu.org/gnu/thegnuproject.html>]
