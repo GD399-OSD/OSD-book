@@ -25,23 +25,27 @@ What might help with unselfconcious sharing? Braithwaite points to two tools ava
 
 Braithwaite tells us that designers should be more transparent in how we work, we should share more, and he starts to scratch the surface -- but does he give us enough to start? what about the tools? are there other ideas and tools that would be effective in accelerating this? Where did the sharing ecosystem present in Open Source software come from?
 
-## Linus's Law?
+## How Bazaar
 
-The Open Design Manifesto summarizes and recontextualizes thinking done by Eric Raymond in _The Cathedral and the Bazaar_. Raymond explains how the process and systems for designing and building the linux kernel created our current ideas of what open source is -- a distributed community collectively engaging in a tool's advancement. Linus Torvalds, the original programmer behind the linux kernel, practiced several (novel at the time), techniques in sharing his codebase.
+Braithwaite in his sharing ideas summarizes and recontextualizes analysis done by Eric Raymond in _The Cathedral and the Bazaar_. Raymond explains how the process and systems for designing and building the linux kernel created our current systems for what open source is: a distributed community collectively engaging in a tool's advancement. Linus Torvalds, the original programmer behind the linux kernel, practiced several (novel at the time), techniques in sharing and building the Linux codebase.
+
+In _TCATB_ Raymond outlines and explains nineteen points key to linux's and Linus's successes. There are two in particular that better actualize Braithwaite's sentiments.
+
+## Release Early, Release often
 
 As soon as a semi-functioning version of Linux was working, it would be posted for others to use. This "release early, release often" maxim flew in the face of existing software development practice at the time (early 90's). One did not want to release buggy code, it was feared that the users would abandon your project. Raymond found that this was not the case with Linux. "[I]t was clear that something different and much healthier was going on [with Linux]." The success was in how Torvalds was treating his users, and in who his users were. Braithwaite's points draw from Torvalds and Raymond: sharing successes and failures as visual learning opportunities aligns with releasing early and often and allowing your users to help find and fix issues.
 
-The biggest breakthrough, at least in the form of a "rule" for the greater developer communities at large, has come to be known as "Linus's Law." Linus's law (cite raymond + the wikipedia page?) states that "Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone," or "Given enough eyeballs, all bugs are shallow."
+## Linus's law
 
-The early Linux ecosystem was a pool of sharing developers. Updates were released early and often. The persons using these early release tools were the same persons' equiped to find problems with the tools and, and this is key, then actually do something about those problems! By sharing rapidly and without self-conciousness, Linux improved faster and more robustly than it would have otherwise.
+The biggest breakthrough Raymond points too in the form of a "rule" has come to be known as "Linus's Law." Linus's law (cite raymond + the wikipedia page?) states that "Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone," or "Given enough eyeballs, all bugs are shallow." Basically, get as many useful users as you can to look at and tinker with your stuff.
 
-Raymond's analysis is supported with his own experiments utilizing the same techniques of continuous release and community aided bug finding and fixing (he built an email program using the same methodologies pulled from Linux). Our contemporary open source communities still utilize these practices.
+The early Linux ecosystem was a pool of sharing developers. Updates were released and distributed early and often. People using these early release tools were the same set of people equipped to find problems with the tools and, this is key, actually do something about those problems! By sharing rapidly and without self-conciousness (you couldn't be too self-concious, your changes might make it back to everyone!), Linux improved rapidly and robustly. [citeable?] The project maintained a prescise vision from Torvalds, he was the end decider of what made it into the official linux realease at the end of each day or cycle, but the community would debate best options, offer multiple solutions, and if necessary, go off into their own direction if an impasse was met. (This is part of why there are so many flavors of GNU/Linux today -- if an uncrossable technical or philosophical chasm is met, sometimes groups fissure and two projects are born from one.)[list of linux flavors?]
 
-All this sharing back and forth, community bug fixing, iterating and evolving: this sounded familiar.
+Raymond's analysis is supported with his own experiments utilizing the same techniques of continuous release and community aided bug finding and fixing (he built an email program using the same methodologies pulled from Linux). Contemporary open source communities utilize most if not all of these practices.
+
+How does a designer do this? A tool like Dribbble or Behance allows for the seeing each other's design, maybe tinkering a little bit, maybe conversing about what is working or not, but does it offer the robustness required to the visual design equivalent of a Linux community? Serious, respected designers AREN'T on these platforms. In contemporary design these "bazaar's" aren't deemed the place to put ones professional or competent work, they are seen as places for students, noobs, etc. For Linux and other open programs, the distribution servers ARE where the good, successful people are hanging out and pinning up their work for lack of a better metaphor. All this sharing back and forth, community bug fixing, iterating and evolving, this did still sound familiar. Where has this existed in designing before?
 
 ## Spectacular Vernacular
-
-"It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>)
 
 Linus's Law & Raymond's other explanations on the linux community bug finding and solving sounds a lot like other, older forms of cultural production. The release early and release often maxim, as well as the "many eyes make light problem solving," mirror older, vernacular processes.
 
@@ -128,6 +132,10 @@ Advantage to F/LOS ideals in creating oppositional model useful for critiquing o
 In terms of sharability.
 
 Is it important that the source is shareable or is it important that the spirit is embraced? F/LOS delivers uses file formats that are easier to port across a range of systems and tools (SVG, XML). What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We get the internet, we've got version control, we're into the mindset of transparent and sharing, etc. Is that enogh? how does that make design/designing better? what does that do other than help on individual, creative levels?
+
+--------------------------------------------------------------------------------
+
+"It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>)
 
 --------------------------------------------------------------------------------
 
