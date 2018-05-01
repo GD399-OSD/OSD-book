@@ -1,16 +1,16 @@
 # F/LOS Regularly
 
-"How come developers have latched onto the open source movement, but designers have not?" -- Garth Braithwaite
+"Why have developers latched onto the open source movement, but designers have not?" -- Garth Braithwaite
 
 Free/Libre Open Source software (F/LOSS) powers much of the web and the modern tech world. F/LOS hardware powers all manner of maker spaces, workshops, and offices. How do we use these same ideas and mechanisms to the benefit of Graphic Design?
 
-The main way a contemporary designer might interface with open source is through technologies or frameworks, maybe an operating system -- Facebook React[^], Adobe Brackets[^] and Phone Gap[^], Bootstrap, Google Android, many of the underlying technologies to Dropbox[^] (a lot of non-open things are built on top of open things), etc. It's also likely that you've seen or used an open source font (The IBM Plex typeface got some press and fonts.google.com serves free and open source fonts exclusively, many of which are in use on millions of websites across the internet[^] (there are now some really good ones there FYI)). But, despite most of the internet being powered by open source tools (Linux, Apache, MySQL, Node, PHP, Wordpress, React, Drupal, etc.), and that web designers increasingly rely on F/LOS frameworks and text editors and file formats to do their work, visual design itself has yet to embrace the F/LOS tools nor F/LOS methods available to it.
+Contemporary designers interface with open source through web technologies and frameworks, maybe an operating system -- Facebook React, Adobe Brackets and Phone Gap, Bootstrap, Google Android (and a lot of non-open things are built on top of open things Safari, Dropbox, etc). It's also likely that you've seen or used an open source font (The IBM Plex typeface got some press and fonts.google.com is moving towards serving open source fonts exclusively, making F/LOS type viewable on millions of websites across the internet (Open Sans alone is featured in more than 19,000,000 websites)). But, despite most of the internet being powered by open source tools (Linux, Apache, MySQL, Node.js, PHP, Drupal, etc.), and that web designers increasingly rely on F/LOS frameworks, text editors, and file formats to do their work, visual design itself has yet to embrace the F/LOS tools nor the F/LOS methodologies available to it.
 
 F/LOS in a graphic design context provides alternative tools for the creation of designs (Inkscape, Nodebox), file formats that are easier to port across a range of systems and tools (SVG, XML), and a different ideological framing for the creation of cultural artifact (Free as in Freedom, increased collaboration). Engaging in making with the tools, formats, and ideas creates new opportunities for learning and creating. Through these lenses F/LOS is a useful critical tool for the discipline.
 
 ## A Starting place
 
-A cursory google search for "Open Source Design" quickly returns a wonderful place to start seeing how F/LOS might immediately have impact in graphic design. Garth Braithwaite, a designer at Adobe (originally for the open source text editor Brackets, now on some other open source projects, but still at Adobe), founded an organization called "Design Open." Their founding manifesto is as follows:
+Any web search for "Open Source Design" returns a wonderful place to start understanding how F/LOS can immediately have an impact in graphic design. Garth Braithwaite, a designer at Adobe (originally for the open source text editor Brackets, now on some other open source projects, but still at Adobe), founded an organization called "Design Open" (originally named Open Source Design [DATES!]) Braithwaite's founding manifesto is as follows:
 
 I will:
 
@@ -21,27 +21,35 @@ I will:
 - work with other designers by choice
 - improve my toolbox
 
-... having this mentality has potential to help us leave the design industry better than we found it. [Open Source Design Manifesto]
+[Open Source Design Manifesto]
 
-Braithwaite acknowledges that not all design projects are "open-able" -- say you are working on a branding project -- that final logos, wordmarks, systems, etc. aren't meant to be "open" -- you don't want another designer to just wholesale fork and copy and reuse that. However, how the brand guidelines themselves are setup might be a thing to share, or the process you used to arrive at the final product could be shared, or the discarded work might be shareable and reusable after the fact. Those are all ways to be "open" in your designing, even if you cannot "share the source" the way Stallman, et al. would want.
+With his _Open Design Manifesto_, and a subsequent talk called "Designers Can Open Source," Braithwaite explores simple actions a designer can take to immediately become more "open." Most of this revolves around an increase in general sharing: "Sharing process, especially the failures, really helps" and "post as you are working, show how things evolve." These line items and subsquent support from his lecture create a kind of design ecosystem where designers are much friendlier and collaborative with their neighbors. This isn't crazy or extreme, Braithwaite acknowledges that not all design projects or outcomes can be shared. One doesn't want another designer to just wholesale copy and reuse a logo one has made. However, how brand guidelines themselves are setup might be a thing to share, or the process you used to arrive at the final product could be shared, or the discarded work and why it was discarded might be shareable (and reusable?) after the fact. Those are all ways to be more "open" in your designing.
+
+Don't forget to mention who inspired you as you go. Be open. Use tools available to sharing (github, dribbble). This is how open software is developed -- try to use the same tools if possible. Braithwaite mentions one clever thing on dribble -- the rebound! something that actually invites taking something and visually riffing, adding, or remixing to be shared again. This is often what design is missing, or what design has not embraced that open source software has.
 
 Open source design does not mean so open that it is designed by community.
 
-Sharing process, especially the failutes, really helps. Don't forget to mention who inspired you as you go. Be open. Use tools available to sharing -- Braithwaite mentions dribbble, his talk shows its age there, but the point remains: post as you are working, show how things evolve. This is how open software is developed, and how vernacular design generally progressed. Braithwaite mentions one clever thing on dribble -- the rebound! something that actually invites taking something and visually riffing, adding, or remixing to be shared again. This is often what design is missing, or what deisgn has not embraced that some of these other things have.
+Eric Raymond in his essay _The cathedral and the bazaar_ explains how the birth of the linux kernel really created the contemporary idea of open source -- not just that the tools are open and free (as in freedom) -- but that a whole community might actually engage in its advancement. (The GNU creation and maintenance up until that point had, while available to anyone to use, been maintained by limited groups of developers, Linus Torvald was the first to use the methodology we now associate with "Open Source")...[TCATB - intro stuff? TCATB actual essay]
 
-## Be the Designer with a bigger toolbox
+Raymond's analysis is in depth and supported with his own experiments utilizing the same systems. That our contemporary open source communities utilize these commonal, shared practices seems novel. This sounded familiar.
 
-An advanatage to these F/LOS tools is that since they use file types that are built on open standards, and that are often just specialty versions of XML files, they are just text files! they can relaly easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
+Stewart Brand in his book _How Buildings Learn_ dissects vernacular building. He describes a process that predates the Linux community, yet his description of how a cape cod house came to being sounds uncannily similar to Raymond describing the linux community collaborating on their kernel together. If software can be designed and constructed this way, and vernacular objects can evole this way, why not contemporary visual design?
 
-SVG?
+Stewart Brand's How Buildings Learn is an in-depth examination of the concepts of vernacular building. First printed in 1994, How Buildings Learn provides a careful dissection of historic, cultural architecture in America. Brand has had a lifelong impact on progressive thinking and the sustainability movement through the Whole Earth Catalog (which he helped found in 1968), the first Hacker's Conference (1984), and the Long-Now foundation (1996). He has at times been a soldier, hippie, observer, critic, organizer, philosopher, and nerd of the highest degree. Because of his varied interests, Brand approaches the vernacular with a scholarly rather than aesthetic view.
 
-Scribus XML files?
+In Brand's more academic view, the vernacular process (which he also refers to as "adaptive building") is a systematic framework for evolving concepts. A culture steadily culminates these frameworks over time. Traditions subsequently arise allowing vernacular designers to reuse the invented forms and methods for common, everyday (design?) tasks. Contemporary design typically looks for new (or novel?) or wholely unique solution to a given problem, which is counter-productive to creating traditions.
 
-Nodebox XML files?
+The vernacular's evolutionary model is predominantly based on Constraint. The key sub-constraints in my thinking today are Durability are Thrift. These same principles applied to the modern-day practice of design offer concrete, actionable ways for design to move forward towards the sustainable and the better.
 
-What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible?
+If open source is really the new vernacular, then something like this: "It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>) makes so much sense!
 
-Is it important that the source is shareable or is it important that the spirit is embraced?
+Stewart Brand defines vernacular as the indigenous building of a place. Vernacular more broadly means common designs by common people. What makes cultural common-ness so special is its ability to evolve steadily over time. Common features survive the passage of time when they are generally understood as "good." Over years, the vernacular incorporates more and more "good" features while eradicating "bad" ones.
+
+While we (as professional designers) cannot always behave as conservatively as vernacular designers, that doesn't mean we cannot adopt their "common" ideals of constraint, durability, and thrift. In design we can always pile new ideas on top of old ones. We do not have to reinvent the wheel each time we tackle a problem. Ideas imported from elsewhere, if better at solving problems than our current ideas, are easy to incorporate (this is how present-day open-source communities function). Our role must be to take the cautious, evolving methodology of vernacular design and apply it alongside our contemporary technologist tendencies and conceptual processes.
+
+It's really how we've been designing our entire human existence. how can designers recapture this??? (is this defendable?)
+
+What's important from Brand's explanation of the vernacular and Raymond's explanation of the bazaar model is the sharing, and lesser emphasis on individual ownership of the "thing" itself. I don't mean that there isn't individuality or uniqueness of ideas, etc. I mean that even if you have a new idea, you work to integrate it into the community resource, not market/sell it as your own separate things
 
 ## Free as in Freedom
 
@@ -100,31 +108,9 @@ David Rudnick continues to point out that designing is increasingly focused on s
 
 But is there something more useful than just critical opposition to be found in open source?
 
-Rudnick asks us to examine if we are serving the audience or the clients. In his best version of design, the audience is who matters. A client should be hiring you to help them help their audience, not just help them period. Eric Raymond in his essay _The cathedral and the bazaar_ explains how the birth of the linux kernel really created the contemporary idea of open source -- not just that the tools are open and free (as in freedom) -- but that a whole community might actually engage in its advancement. (The GNU creation and maintenance up until that point had, while available to anyone to use, been maintained by limited groups of developers, Linus Torvald was the first to use the methodology we now associate with "Open Source")...[TCATB - intro stuff? TCATB actual essay]
-
-Raymond's analysis is in depth and supported with his own experiments utilizing the same systems. That our contemporary open source communities utilize these commonal, shared practices seems novel. This sounded familiar.
-
-Stewart Brand in his book _How Buildings Learn_ dissects vernacular building. He describes a process that predates the Linux community, yet his description of how a cape cod house came to being sounds uncannily similar to Raymond describing the linux community collaborating on their kernel together. If software can be designed and constructed this way, and vernacular objects can evole this way, why not contemporary visual design?
-
-Stewart Brand's How Buildings Learn is an in-depth examination of the concepts of vernacular building. First printed in 1994, How Buildings Learn provides a careful dissection of historic, cultural architecture in America. Brand has had a lifelong impact on progressive thinking and the sustainability movement through the Whole Earth Catalog (which he helped found in 1968), the first Hacker's Conference (1984), and the Long-Now foundation (1996). He has at times been a soldier, hippie, observer, critic, organizer, philosopher, and nerd of the highest degree. Because of his varied interests, Brand approaches the vernacular with a scholarly rather than aesthetic view.
-
-In Brand's more academic view, the vernacular process (which he also refers to as "adaptive building") is a systematic framework for evolving concepts. A culture steadily culminates these frameworks over time. Traditions subsequently arise allowing vernacular designers to reuse the invented forms and methods for common, everyday (design?) tasks. Contemporary design typically looks for new (or novel?) or wholely unique solution to a given problem, which is counter-productive to creating traditions.
-
-The vernacular's evolutionary model is predominantly based on Constraint. The key sub-constraints in my thinking today are Durability are Thrift. These same principles applied to the modern-day practice of design offer concrete, actionable ways for design to move forward towards the sustainable and the better.
-
-If open source is really the new vernacular, then something like this: "It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>) makes so much sense!
-
-Stewart Brand defines vernacular as the indigenous building of a place. Vernacular more broadly means common designs by common people. What makes cultural common-ness so special is its ability to evolve steadily over time. Common features survive the passage of time when they are generally understood as "good." Over years, the vernacular incorporates more and more "good" features while eradicating "bad" ones.
-
-While we (as professional designers) cannot always behave as conservatively as vernacular designers, that doesn't mean we cannot adopt their "common" ideals of constraint, durability, and thrift. In design we can always pile new ideas on top of old ones. We do not have to reinvent the wheel each time we tackle a problem. Ideas imported from elsewhere, if better at solving problems than our current ideas, are easy to incorporate (this is how present-day open-source communities function). Our role must be to take the cautious, evolving methodology of vernacular design and apply it alongside our contemporary technologist tendencies and conceptual processes.
-
-It's really how we've been designing our entire human existence. how can designers recapture this??? (is this defendable?)
-
-What's important from Brand's explanation of the vernacular and Raymond's explanation of the bazaar model is the sharing, and lesser emphasis on individual ownership of the "thing" itself. I don't mean that there isn't individuality or uniqueness of ideas, etc. I mean that even if you have a new idea, you work to integrate it into the community resource, not market/sell it as your own separate things
+Rudnick asks us to examine if we are serving the audience or the clients. In his best version of design, the audience is who matters. A client should be hiring you to help them help their audience, not just help them period.
 
 if anything deserves a reward it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results. [GNU Manifesto]
-
-Garth Braithwaite really starts getting at all o this with his _Open Design Manifesto_. Garth isn't concerned w/ designer's embrassing the open licenses that Stallman and Raymond propose (as many design projects would seem to be incapable of fitting into this model [an identity for example]), but he is interested in Designers adopting the sharing mentality. Show how you've gotten somewhere -- if the things themselves can't be forked, at least the process can match -- learning through example? one person solving a thing, the rest sharing in that advance?
 
 So we have on one hand a pragmatic approach that is based in the history of designing, the history of just how we as humans created cultural and societal artifacts, and on the other a critical design approach that intentionally positions itself as different from mainstream capitalist designing.
 
@@ -139,6 +125,20 @@ okay! so now how to wrap this up???
 
 There are barriers to doing this as a visual designer. The main one is by choosing openness, transparency, and sharing you are working in a way that is at odds w/ much of how
 
+## Be the Designer with a bigger toolbox
+
+An advanatage to these F/LOS tools is that since they use file types that are built on open standards, and that are often just specialty versions of XML files, they are just text files! they can relaly easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
+
+SVG?
+
+Scribus XML files?
+
+Nodebox XML files?
+
+What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible?
+
+Is it important that the source is shareable or is it important that the spirit is embraced?
+
 --------------------------------------------------------------------------------
 
 - Facebook React: <https://reactjs.org/> & <https://github.com/facebook/react>
@@ -146,6 +146,8 @@ There are barriers to doing this as a visual designer. The main one is by choosi
 - Adobe Phone Gap: <https://phonegap.com/> & <https://github.com/phonegap/>
 - IBM Plex: <https://www.ibm.com/plex/> & <https://github.com/IBM/plex>
 - Dropbox: <https://www.dropbox.com/help/security/open-source-software>
+- <https://qz.com/1124664/ibm-plex-with-its-first-ever-custom-corporate-font-ibm-is-freeing-itself-from-the-tyranny-of-helvetica/>
+- <https://fonts.google.com/specimen/Open+Sans>
 - <http://byfat.xxx/what-is-opensource-and-why-do-i-feel-so-guilty>
 - <https://ometer.com/free-software-ui.html>
 - <https://www.joelonsoftware.com/2000/04/10/controlling-your-environment-makes-you-happy/>
