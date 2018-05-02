@@ -18,6 +18,7 @@ MICA had also recently been visited by Loraine Furter and Eric Schrijver, two me
 
 A web search for "Open Source Design" returns quite a few resources to start understanding how F/LOS can have an impact in graphic design. Near the top of the list is "The Open Source Design Manifesto" by Garth Braithwaite, a designer at Adobe (originally for the open source text editor Brackets, now on some other open source projects still within Adobe), The manifesto is as follows:
 
+```
 I will:
 
 - find opportunities to design in the open
@@ -26,6 +27,7 @@ I will:
 - openly participate in design discussions
 - work with other designers by choice
 - improve my toolbox
+```
 
 [cite Open Source Design Manifesto, originally Published on Sep 25, 2013]
 
@@ -55,19 +57,32 @@ Vernacular in this context means common designs by common people. Common feature
 
 To illustrate this in _HBL_, Brand references the Cape Cod house. He includes a wonderful diagram called "The Evolution Chart of the Siasconset Whale House," which visualizes what Raymond is trying to explain to us in _TCATB_ (and that Braithwaite also wants contemporary designers to get), that simple things released into the wild of a user community will grow, evolve, and change -- and will come back with improvements. The improvements are merged into the computer code or architectural language. Repeat. Torvalds is a genius to Raymond not because he uncovered something brand new, but in that he managed to take an existing form of cultural production and accelerate and decentralize it so as to maximize the merging of fixes and improvments and new features!
 
-If software can be designed and constructed this way, and vernacular objects evolve this way, why not contemporary visual design?
+If new software can be designed and constructed this way, and vernacular cultural objects have always come to be this way, what's so hard in contemporary visual design?
 
 ## Free as in Freedom
 
-There are design precedents for this type of "F/LOS" designing. Enzo Mari's Autoprogettazione? is one example. Mari designed a series of tables and chairs to be made with simple boards and nails. One just had to contact Mari w/ a self-addressed stamped envelope and his studio would mail you all the plans. He asked for pictures of the constructed pieces in return, and if you had modified anything to let him know how that worked out. Stewart Brand also helped start the _Whole Earth Catalog_, which included in its pages all manner of books and kits for making furniture, houses, etc. that all had similar ideals: we give you the instructions, you try to make it yourself, and if you come up with something new or interesting or solve a problem inherent in the original, please contribute that back. So, if Enzo Mari and Victor Papanek -- both historically important designers -- are capable of working this way, all designers should be.
+Richard Stallman first published the GNU Manifesto in 1985\. In it, he described "Free Software," which was in opposition to proprietary software. Stallman's motivations for this were both pragmatic and utopian. He was hoping to maintain the kind of environment that he had come to expect from computer programming: a vernacular-like model where everyone builds upon everyone else's work. Stallman also was hoping to fight against the tide of proprietary, closed softwares and tools he felt rising. Free software is predecated on the following freedoms:
 
-Maybe the issue isn't designing itself, but how design had been framed? Our class was constantly struggling with the ideals of transparency and openness and how that clashed with the moderno-capitalist design machinery that tends to outline design practice (and design education).
+```
+A program is free software if the program's users have the four essential freedoms:
 
-What is the underlying ideology driving F/LOS -- if we could get to that would it help answer more of our questions
+- The freedom to run the program as you wish, for any purpose (freedom 0).
+- The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+- The freedom to redistribute copies so you can help others (freedom 2).
+- The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
 
-The foundational ideology meant to underscore all F/LOS projects is that the software is "Free software." Free in this context is supposed to mean "Free as in Freedom, not Free as in price." Richard Stallman and his GNU project are considered to be the start of the Free Software movement. The short version is that Stallman, while working in the MIT AI lab increasingly sees the computers and software around him move from a sort of ad-hoc, vernacular model -- everyone shares and builds off each other's work -- to an increasingly proprietary one. When, after requesting the source code to a printer that isn't working well so he can fix, Stallman is rebuked, it is the last straw. Stallman decides that user freedom
+A program is free software if it gives users adequately all of these freedoms. Otherwise, it is nonfree. While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.
+```
+
+Free software, as defined by Stallman, is seriously ethical. It has a real point of view. Students that were attempting to understand their position as a designer as also a political or critical act found something new here. The software they used could reflect their ethics just like the clothes they might choose to wear or politician they might vote for.
 
 ## Opposition
+
+The way Stallman positioned GNU was intentionally oppositional to "main stream" software. As GNU/Linux and other F/LOS tools have grown, they've mostly maintained this outside, oppositional status. Stallman was never against developers making money -- the GNU project and Free Software Foundation have always been clear that Free means Freedom, not free as in price -- but he is against developers or companies making money by sacrificing or minimizing the freedoms of their users.
+
+Software / OS as a radical act was a fresh take for the class. Anthony Dunne and Fiona Raby in _Designer as Author_ propose that designers "develop a parallel design activity that questions and challenges industrial agendas."
+
+Walking into the average design classroom or studio presents one is greeted by an aluminum wall punctuated by glowing fruit behind which everyone has the same "creative cloud" raining down similar outputs from (mostly) the same sets of aesthetic inputs. By replacing one's computer and software suite with F/LOSS alternatives a designer immediately engages in Stallman's AND Dunne & Raby's critical activities. Designer's can better access the transparency Braithwaite talks about and better actualize the sort of vernacular un-self-concious iterating, improving, and forking; as well as provide a critique of our current situation by embodying alternative social and technical values.[D&R]
 
 ## Free doesn't mean easy
 
