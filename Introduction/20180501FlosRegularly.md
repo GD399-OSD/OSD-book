@@ -96,7 +96,7 @@ Another obstacle is that while you might be adopting more open practices for you
 
 That F/LOS tools are hard to install and/or hard to use commonly is cited at the main barrier to use. Every student at least once this term came in frustrated with not being able to do something or get a feature to work, etc. with some application being used.
 
-## Conclusion
+## Forks in the Road
 
 "We need utopian thinking because without it, we are constrained by the tyranny of the possible." -- Stephen Duncombe [Open Fields....]
 
