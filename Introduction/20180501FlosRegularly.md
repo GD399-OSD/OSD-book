@@ -45,6 +45,8 @@ This is what Braithwaite is trying to get designers to understand that developer
 
 ## Not just Theory
 
+"It is absurdly arrogant to begin the design process with an empty piece of paper"[^]- Hella Jongerius & Louise Schouwenberg (<https://www.readingdesign.org/beyond-the-new>)
+
 What Raymond is describing in _TCATB_ is actually not anything novel. There are other structures that enable cultural creation via means that are distributed, include "bug fixes" from the community, and shared and forked: vernacular design. What is described by Raymond, and what has been adopted by F/LOS communities is really not so different from the way that most human creations came to be.
 
 In _How Buildings Learn_, Stewart Brand dissects vernacular building and describes a process that predates the Linux community, yet sounds uncannily similar. In Brand's view, the vernacular process is a systematic framework for evolving concepts. A culture steadily culminates frameworks over time. Vernacular designers reuse the invented forms and methods for common, everyday tasks. Contemporary design typically looks for new or unique solution to a given problem, which is counter-productive to creating traditions.
@@ -57,19 +59,31 @@ If software can be designed and constructed this way, and vernacular objects evo
 
 ## Free as in Freedom
 
-Is there something actually special or unique about the aims of a visual designer that preclude the open ness that braithwaite, raymond, and our vernacular forebearers practice? Is there something about the culture of Graphic Design that makes these F/LOS ideas uncomfortable?
-
-There are some other design precedents for this type of "F/LOS" designing. Enzo Mari's Autoprogettazione? is one example. Mari designed a series of tables and chairs to be made with simple boards and nails. One just had to contact Mari w/ a self-addressed stamped envelope and his studio would mail you all the plans. He asked for pictures of the constructed pieces in return, and if you had modified anything to let him know how that worked out. Stewart Brand also helped start the _Whole Earth Catalog_, which included in its pages all manner of books and kits for making furniture, houses, etc. that all had similar ideals: we give you the instructions, you try to make it yourself, and if you come up with something new or interesting or solve a problem inherent in the original, please contribute that back. So, if Enzo Mari and Victor Papanek -- both historically important designers -- are capable of working this way, all designers should be.
+There are design precedents for this type of "F/LOS" designing. Enzo Mari's Autoprogettazione? is one example. Mari designed a series of tables and chairs to be made with simple boards and nails. One just had to contact Mari w/ a self-addressed stamped envelope and his studio would mail you all the plans. He asked for pictures of the constructed pieces in return, and if you had modified anything to let him know how that worked out. Stewart Brand also helped start the _Whole Earth Catalog_, which included in its pages all manner of books and kits for making furniture, houses, etc. that all had similar ideals: we give you the instructions, you try to make it yourself, and if you come up with something new or interesting or solve a problem inherent in the original, please contribute that back. So, if Enzo Mari and Victor Papanek -- both historically important designers -- are capable of working this way, all designers should be.
 
 Maybe the issue isn't designing itself, but how design had been framed? Our class was constantly struggling with the ideals of transparency and openness and how that clashed with the moderno-capitalist design machinery that tends to outline design practice (and design education).
 
-What is the underlying ideology driving F/LOS -- if we could get to that would it help answer more of our questions?
+What is the underlying ideology driving F/LOS -- if we could get to that would it help answer more of our questions
+
+The foundational ideology meant to underscore all F/LOS projects is that the software is "Free software." Free in this context is supposed to mean "Free as in Freedom, not Free as in price." Richard Stallman and his GNU project are considered to be the start of the Free Software movement. The short version is that Stallman, while working in the MIT AI lab increasingly sees the computers and software around him move from a sort of ad-hoc, vernacular model -- everyone shares and builds off each other's work -- to an increasingly proprietary one. When, after requesting the source code to a printer that isn't working well so he can fix, Stallman is rebuked, it is the last straw. Stallman decides that user freedom
 
 ## Opposition
 
 ## Free doesn't mean easy
 
+So we have on one hand a pragmatic approach that is based in the history of designing, the history of just how we as humans created cultural and societal artifacts, and on the other a critical design approach that intentionally positions itself as different from mainstream capitalist designing.
+
+There are barriers to doing this as a visual designer. The main one is by choosing openness, transparency, and sharing you are working in a way that is at odds w/ much of how the market wants us to behave. If you see design as serving business, then making your designs available to everyone might not seem like the right approach (Stallman has a rebuttal to this kind of thinking).
+
+Another obstacle is that while you might be adopting more open practices for yourself and are being more open to collaboration, you are actually less able to collaborate as you no longer use the tools of your peers.
+
 ## Be the Designer with a bigger toolbox
+
+An advanatage to F/LOS tools is that since they use file types that are built on open standards, and that are often just specialty versions of XML files, they are just text files! they can relaly easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
+
+Advantage to F/LOS ideals in creating oppositional model useful for critiquing our mainstream culture. By choosing to use this surreal set of softwares (linux, scribus etc.) a designer is specifically saying "I am not using the same comptuer or software as you."
+
+Is it important that the source is shareable or is it important that the spirit is embraced? F/LOS delivers uses file formats that are easier to port across a range of systems and tools (SVG, XML). What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We get the internet, we've got version control, we're into the mindset of transparent and sharing, etc. Is that enogh? how does that make design/designing better? what does that do other than help on individual, creative levels?
 
 ## Further thoughts
 
