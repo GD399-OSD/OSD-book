@@ -1,6 +1,6 @@
 # F/LOS Regularly.
 
-One of my goals as an educator is to help create new knowledge for my discipline. Through a new course I ran from January to May of 2018 -- Special Topics in Graphic Design: Open Source -- at the Maryland Institute College of Art (MICA), I (with the help of my class) explored new tools and ideologies for making design. To do this I decided to utilize Free/Libre Open Source software (F/LOS(s)) as a critical tool for engaging in new methods of making and thinking.
+Through a new course I ran from January to May of 2018 -- Special Topics in Graphic Design: Open Source -- at the Maryland Institute College of Art (MICA), I (with the help of my class) explored new tools and ideologies for making design. To do this I decided to utilize Free/Libre Open Source software (F/LOS(s)) as a critical tool for engaging in new methods of making and thinking.
 
 The course was setup as a skeleton to be built upon by the students. Each student was asked to use F/LOS tools in the making of their design projects all semester, and to experiment with how the ideas and technologies served their needs not only in our class, but for all their projects.
 
@@ -61,6 +61,8 @@ If new software can be designed and constructed this way, and vernacular cultura
 
 ## Free as in Freedom
 
+"I consider that the Golden Rule requires that if I like a program I must share it with other people who like it." -- Stallman in GNU manifesto
+
 Richard Stallman first published the GNU Manifesto in 1985\. In it, he described "Free Software," which was in opposition to proprietary software. Stallman's motivations for this were both pragmatic and utopian. He was hoping to maintain the kind of environment that he had come to expect from computer programming: a vernacular-like model where everyone builds upon everyone else's work. Stallman also was hoping to fight against the tide of proprietary, closed softwares and tools he felt rising. Free software is predecated on the following freedoms:
 
 ```
@@ -94,16 +96,18 @@ Another obstacle is that while you might be adopting more open practices for you
 
 That F/LOS tools are hard to install and/or hard to use commonly is cited at the main barrier to use. Every student at least once this term came in frustrated with not being able to do something or get a feature to work, etc. with some application being used.
 
-## Be the Designer with a bigger toolbox
+## Conclusion
+
+"We need utopian thinking because without it, we are constrained by the tyranny of the possible." -- Stephen Duncombe [Open Fields....]
+
+What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We should start to see chances for design as a social critique; design that can return to its vernacular roots and not just serve clients or business.
+
+As a course, Special Topics in Graphic Design: Open Source was half seminar and half studio. There was so much ground covered that this paper cannot do it all justice. What the course was most useful for to me was remembering that the way that Open Source software works is not unique to contemporary startup culture -- the things we need as humans have been being made in these ways forever. This means that we as visual designers are not precluded from accessing the techniques and ideas.
+
+As an educator is to help create new knowledge for my discipline. F/LOS allows for this in pragmatic and utopian ways. Its pragmatic in that there are F/LOS tools that do not exist in main stream operating systems nor from Adobe or Autodesk. It is utopian in that the tools themselves can reflect non-traditioanl values and propose alternate fictions or
 
 An advanatage to F/LOS tools is that since they use file types that are built on open standards, they can easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
 
 F/LOS ideals create an oppositional model useful for critiquing our mainstream culture. By choosing to use this surreal set of softwares (linux, scribus etc.) a designer is specifically saying "I am not using the same computer or software as you." and "my computer software has different ethics than yours" This has use as a critique of the status quo.
 
 Is it important that the source is shareable or is it important that the spirit is embraced?
-
-## Conclusion
-
-What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We get the internet, we've got version control, we're into the mindset of transparency and sharing, etc. Is that enough?
-
-As a course, Special Topics in Graphic Design: Open Source was half seminar and half studio. There was so much ground covered that this paper cannot do the whole thing justice. What the course was most useful for to me was remembering that the way that Open Source software works is not unique to contemporary startup culture -- the things we need as humans have been being made in these ways basically forever. This means that we as visual designers are not precluded from accessing them.
