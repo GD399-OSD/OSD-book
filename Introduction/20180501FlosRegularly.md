@@ -43,15 +43,27 @@ As soon as a semi-functioning version of Linux was working, it would be posted f
 
 This is what Braithwaite is trying to get designers to understand that developers seem to have latched onto: many eyes make light work. In graphic design we are trying to find the best visual solutions -- but how often do we throw out partially formed ideas and see if anyone can poke holes (or find pain points we didn't plan on) early in the process? This can be done within a classroom or studio between colleagues -- as things come together make sure you're passing things around between desks/desktops -- or it can take place out in the world at large (via something like Dribbble? Github? Behance?).
 
-## Spectacular Vernacular
+## Not just Theory
 
 What Raymond is describing in _TCATB_ is actually not anything novel. There are other structures that enable cultural creation via means that are distributed, include "bug fixes" from the community, and shared and forked: vernacular design. What is described by Raymond, and what has been adopted by F/LOS communities is really not so different from the way that most human creations came to be.
 
-For my students, it was fine to read about developers doing these things, but it wasn't always easy to see code as a metaphor for visual design. Finding vernacular models that mirrored what Raymond and Braithwaite have to say about developers, but that used architecture or other more concrete and visual cultural creations made this easier for students to grasp.
+In _How Buildings Learn_, Stewart Brand dissects vernacular building and describes a process that predates the Linux community, yet sounds uncannily similar. In Brand's view, the vernacular process is a systematic framework for evolving concepts. A culture steadily culminates frameworks over time. Vernacular designers reuse the invented forms and methods for common, everyday tasks. Contemporary design typically looks for new or unique solution to a given problem, which is counter-productive to creating traditions.
 
-A great example of "release early, release often" and "Linus's Law," but applied to architecture, is Stewart Brand's _How Buildings Learn_.
+Vernacular in this context means common designs by common people. Common features survive the passage of time when they are generally understood as "good." Over years, the vernacular incorporates more and more "good" features while eradicating "bad" ones.
+
+To illustrate this in _HBL_, Brand references the Cape Cod house. He includes a wonderful diagram called "The Evolution Chart of the Siasconset Whale House," which visualizes what Raymond is trying to explain to us in _TCATB_ (and that Braithwaite also wants contemporary designers to get), that simple things released into the wild of a user community will grow, evolve, and change -- and will come back with improvements. The improvements are merged into the computer code or architectural language. Repeat. Torvalds is a genius to Raymond not because he uncovered something brand new, but in that he managed to take an existing form of cultural production and accelerate and decentralize it so as to maximize the merging of fixes and improvments and new features!
+
+If software can be designed and constructed this way, and vernacular objects evolve this way, why not contemporary visual design?
 
 ## Free as in Freedom
+
+Is there something actually special or unique about the aims of a visual designer that preclude the open ness that braithwaite, raymond, and our vernacular forebearers practice? Is there something about the culture of Graphic Design that makes these F/LOS ideas uncomfortable?
+
+There are some other design precedents for this type of "F/LOS" designing. Enzo Mari's Autoprogettazione? is one example. Mari designed a series of tables and chairs to be made with simple boards and nails. One just had to contact Mari w/ a self-addressed stamped envelope and his studio would mail you all the plans. He asked for pictures of the constructed pieces in return, and if you had modified anything to let him know how that worked out. Stewart Brand also helped start the _Whole Earth Catalog_, which included in its pages all manner of books and kits for making furniture, houses, etc. that all had similar ideals: we give you the instructions, you try to make it yourself, and if you come up with something new or interesting or solve a problem inherent in the original, please contribute that back. So, if Enzo Mari and Victor Papanek -- both historically important designers -- are capable of working this way, all designers should be.
+
+Maybe the issue isn't designing itself, but how design had been framed? Our class was constantly struggling with the ideals of transparency and openness and how that clashed with the moderno-capitalist design machinery that tends to outline design practice (and design education).
+
+What is the underlying ideology driving F/LOS -- if we could get to that would it help answer more of our questions?
 
 ## Opposition
 
