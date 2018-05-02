@@ -1,22 +1,22 @@
 # F/LOS Regularly.
 
-One of my goals as an educator is to help create new knowledge for my discipline. Through a special course I ran from January to May of 2018, Special Topics in Graphic Design: Open Source, I (with the help of my class) explored new tools and ideologies for making design. To do this I decided to utilize Free/Libre Open Source software (F/LOS(s)) as a critical tool for engaging in new methods of making and thinking.
+One of my goals as an educator is to help create new knowledge for my discipline. Through a new course I ran from January to May of 2018 -- Special Topics in Graphic Design: Open Source -- at the Maryland Institute College of Art (MICA), I (with the help of my class) explored new tools and ideologies for making design. To do this I decided to utilize Free/Libre Open Source software (F/LOS(s)) as a critical tool for engaging in new methods of making and thinking.
 
-The course acted as a skeleton to build upon for the students enrolled. Each student was asked to attempt to use F/LOS tools in the making of their design projects, and to experiment with how the ideas and technologies could serve their needs not only in our class, but for all their projects this term.
+The course was setup as a skeleton to be built upon by the students. Each student was asked to use F/LOS tools in the making of their design projects all semester, and to experiment with how the ideas and technologies served their needs not only in our class, but for all their projects.
 
-While using some of the F/LOS software for final outcomes wasn't always possible (we worked on templates for our school library for example, they still needed things in InDesign), the conversations we had in the classroom and ideas that surfaced from readings and visitors made their way into student work in and beyond our class.
+While using some of the F/LOS software for final outcomes wasn't always possible (we worked on templates for our school library for example, they still needed things in InDesign), the conversations we had and ideas that surfaced from readings and classroom visitors made their way into student work inside and outside of our class.
 
 ## A Starting place
 
-The original spark for this course was a visit by David Crossland to the Maryland Institute College of Art (MICA). Crossland was visiting MICA as a representative of Google Fonts. After showing off some new variable type that Google and Type Network were working on together, Crossland explained how he had ended up working at Google Fonts in the first place: being a lover of open source. While I had been using F/LOS type myself as part of sustainability related constraints, I had not thought much about the larger "open source design" ecosystem. Crossland's talk presented new territory.
+The original spark for this course was a Google Fonts related visit to MICA by David Crossland. After showing off some new open source variable type that Google and Type Network were working on, Crossland explained how he had ended up working at Google Fonts in the first place: being a lover of open source. While I had been using F/LOS type myself as part of sustainability related constraints, I had not thought much about the larger "open source design" ecosystem.
 
-MICA had also recently been visited by Loraine Furter and Eric Schrijver, two members of a collective known as "Open Source Publishing" (OSP). They had done two workshops in as many years, one related to using public domain resources, and one related to customizing open source fonts. After meeting them upon their first visit I had explored the OSP site (OSP.kitchen), and found their work interesting and thought provoking, but hadn't given it much thought afterward. Crossland's visit seemed like one too many coincidences. I had to dive deeper. These ideas needed a class.
+MICA had also recently been visited by Loraine Furter and Eric Schrijver, two members of a collective known as "Open Source Publishing" (OSP). They had done two workshops in as many years, one related to using public domain resources, and one related to customizing open source fonts. Crossland's visit seemed like one too many coincidences. I had to dive deeper. These ideas needed a class.
 
 ## Open Source Design
 
 "Why have developers latched onto the open source movement, but designers have not?" -- Garth Braithwaite
 
-A web search for "Open Source Design" returns quite a few resources to start understanding how F/LOS can have an impact in graphic design. Near the top of the list is "The Open Source Design Manifesto" by Garth Braithwaite, a designer at Adobe (originally for the open source text editor Brackets, now on some other open source projects still within Adobe), The manifesto is as follows:
+A web search for "Open Source Design" returns quite a few resources to start understanding how F/LOS has a graphic design impact. Near the top of the list is "The Open Source Design Manifesto" by Garth Braithwaite, a designer at Adobe (originally for the open source text editor Brackets, now on some other open source projects still within Adobe), The manifesto is as follows:
 
 ```
 I will:
@@ -74,11 +74,11 @@ A program is free software if the program's users have the four essential freedo
 A program is free software if it gives users adequately all of these freedoms. Otherwise, it is nonfree. While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.
 ```
 
-Free software, as defined by Stallman, is seriously ethical. It has a real point of view. Students that were attempting to understand their position as a designer as also a political or critical act found something new here. The software they used could reflect their ethics just like the clothes they might choose to wear or politician they might vote for.
+Free software, as defined by Stallman, is ethical. It has a point of view. Its clear about where it stands. Students that were attempting to get a grip on their position as a designer intentionally using design as a political or critical act found something of use here. The software they might use could reflect their ethics too.
 
 ## Opposition
 
-The way Stallman positioned GNU was intentionally oppositional to "main stream" software. As GNU/Linux and other F/LOS tools have grown, they've mostly maintained this outside, oppositional status. Stallman was never against developers making money -- the GNU project and Free Software Foundation have always been clear that Free means Freedom, not free as in price -- but he is against developers or companies making money by sacrificing or minimizing the freedoms of their users.
+The way Stallman positioned GNU was intentionally oppositional to "main stream" software. As GNU/Linux and other F/LOS tools have grown, they've mostly maintained this outside, oppositional status. Stallman was never against developers making money -- the GNU project and Free Software Foundation have always been clear that Free means Freedom, not free as in price -- but he is against developers or companies making money by sacrificing or minimizing the freedoms of their users.[gnu reference]
 
 Software / OS as a radical act was a fresh take for the class. Anthony Dunne and Fiona Raby in _Designer as Author_ propose that designers "develop a parallel design activity that questions and challenges industrial agendas."
 
@@ -86,20 +86,24 @@ Walking into the average design classroom or studio presents one is greeted by a
 
 ## Free doesn't mean easy
 
-So we have on one hand a pragmatic approach that is based in the history of designing, the history of just how we as humans created cultural and societal artifacts, and on the other a critical design approach that intentionally positions itself as different from mainstream capitalist designing.
+So we have on one hand a pragmatic approach that is based in the history of designing, the history of just how we as humans created cultural and societal artifacts, and on the other a critical design approach that intentionally positions itself as different from mainstream capitalism.
 
-There are barriers to doing this as a visual designer. The main one is by choosing openness, transparency, and sharing you are working in a way that is at odds w/ much of how the market wants us to behave. If you see design as serving business, then making your designs available to everyone might not seem like the right approach (Stallman has a rebuttal to this kind of thinking).
+By choosing openness, transparency, and sharing designers are working in a way that is at odds w/ what the market wants. If you see design as serving business, then making your designs available to everyone might not seem like the right approach (Stallman has a rebuttal to this kind of thinking, but its a barrier).
 
-Another obstacle is that while you might be adopting more open practices for yourself and are being more open to collaboration, you are actually less able to collaborate as you no longer use the tools of your peers.
+Another obstacle is that while you might be adopting more open practices for yourself and are being more open to collaboration, you are actually less able to collaborate as you no longer use the tools of your peers. In our class we collaborated with MICA's library on some new materials. The library thinks of itself as an open entity within the school -- the ideals of Stallman's and F/LOS at large are mirrored by the Library's director and staff. However, there were limitations to what we could do -- we still had to create everything with creative cloud for example. We were able to collect and share all manner of our designs, but we couldn't ever include the typefaces in our repositories as they also aren't open (the Library adheres to MICA's brand guidelines for its materials).
+
+That F/LOS tools are hard to install and/or hard to use commonly is cited at the main barrier to use. Every student at least once this term came in frustrated with not being able to do something or get a feature to work, etc. with some application being used.
 
 ## Be the Designer with a bigger toolbox
 
-An advanatage to F/LOS tools is that since they use file types that are built on open standards, and that are often just specialty versions of XML files, they are just text files! they can relaly easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
+An advanatage to F/LOS tools is that since they use file types that are built on open standards, they can easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
 
-Advantage to F/LOS ideals in creating oppositional model useful for critiquing our mainstream culture. By choosing to use this surreal set of softwares (linux, scribus etc.) a designer is specifically saying "I am not using the same comptuer or software as you."
+F/LOS ideals create an oppositional model useful for critiquing our mainstream culture. By choosing to use this surreal set of softwares (linux, scribus etc.) a designer is specifically saying "I am not using the same computer or software as you." and "my computer software has different ethics than yours" This has use as a critique of the status quo.
 
-Is it important that the source is shareable or is it important that the spirit is embraced? F/LOS delivers uses file formats that are easier to port across a range of systems and tools (SVG, XML). What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We get the internet, we've got version control, we're into the mindset of transparent and sharing, etc. Is that enogh? how does that make design/designing better? what does that do other than help on individual, creative levels?
-
-## Further thoughts
+Is it important that the source is shareable or is it important that the spirit is embraced?
 
 ## Conclusion
+
+What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We get the internet, we've got version control, we're into the mindset of transparency and sharing, etc. Is that enough?
+
+As a course, Special Topics in Graphic Design: Open Source was half seminar and half studio. There was so much ground covered that this paper cannot do the whole thing justice. What the course was most useful for to me was remembering that the way that Open Source software works is not unique to contemporary startup culture -- the things we need as humans have been being made in these ways basically forever. This means that we as visual designers are not precluded from accessing them.
