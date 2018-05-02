@@ -35,11 +35,21 @@ We read the manifesto and watched Braithwaite's presentation as a class. In resp
 
 As a class we had decided to be open, to share more, to start to utilize at least one tool of open source developers (github), but where did this way of working come from?
 
-## How Bazaar
-
 ## Linus's law
 
+The way we think about and talk about open source today is rooted in _The Cathedral and the Bazaar_ by Eric Raymond. In this essay, Raymond analyzes how Linus Torvalds, and the distributed hacker crew Torvalds helped lead, developed the Linux Kernel. Raymond outlines and explains nineteen points key to Linux's and Linus's successes. There are two in particular that better actualize Braithwaite's sentiments -- and clearly outline what is understood as "open source" today.
+
+As soon as a semi-functioning version of Linux was working, it would be posted for others to use. This "release early, release often" maxim flew in the face of existing software development practice -- the cathedral model. One did not want to release buggy code, it was feared that users would abandon your project. Raymond found that this was not the case with Linux. "[I]t was clear that something different and much healthier was going on [with Linux]." The success was in how Torvalds was treating his users -- they were being treated as colleagues and co-developers. Release early and often is a predicate for Raymond's key takeaway from his analysis: "Linus's Law." Linus's law states that "Given a large enough beta-tester and co-developer base, almost every problem will be characterized quickly and the fix obvious to someone," or "Given enough eyeballs, all bugs are shallow."[cite raymond + the wikipedia page?] Basically, get as many users as you can to look at and tinker with your stuff, and make sure they tell you about everything wrong that they find.
+
+This is what Braithwaite is trying to get designers to understand that developers seem to have latched onto: many eyes make light work. In graphic design we are trying to find the best visual solutions -- but how often do we throw out partially formed ideas and see if anyone can poke holes (or find pain points we didn't plan on) early in the process? This can be done within a classroom or studio between colleagues -- as things come together make sure you're passing things around between desks/desktops -- or it can take place out in the world at large (via something like Dribbble? Github? Behance?).
+
 ## Spectacular Vernacular
+
+What Raymond is describing in _TCATB_ is actually not anything novel. There are other structures that enable cultural creation via means that are distributed, include "bug fixes" from the community, and shared and forked: vernacular design. What is described by Raymond, and what has been adopted by F/LOS communities is really not so different from the way that most human creations came to be.
+
+For my students, it was fine to read about developers doing these things, but it wasn't always easy to see code as a metaphor for visual design. Finding vernacular models that mirrored what Raymond and Braithwaite have to say about developers, but that used architecture or other more concrete and visual cultural creations made this easier for students to grasp.
+
+A great example of "release early, release often" and "Linus's Law," but applied to architecture, is Stewart Brand's _How Buildings Learn_.
 
 ## Free as in Freedom
 
