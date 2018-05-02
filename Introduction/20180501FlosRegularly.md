@@ -8,7 +8,7 @@ While using some of the F/LOS software for final outcomes wasn't always possible
 
 ## A Starting place
 
-The original spark for this course was a Google Fonts related visit to MICA by David Crossland. After showing off some new open source variable type that Google and Type Network were working on, Crossland explained how he had ended up working at Google Fonts in the first place: being a lover of open source. While I had been using F/LOS type myself as part of sustainability related constraints, I had not thought much about the larger "open source design" ecosystem.
+The original spark for this course was a Google Fonts related visit to MICA by David Crossland. After showing off some new open source variable type that Google and Type Network were working on, Crossland explained how he had ended up working at Google Fonts in the first place: being a lover of open source. While I had been using F/LOS fonts myself as part of sustainability related constraints, I had not thought much about the larger "open source design" ecosystem.
 
 MICA had also recently been visited by Loraine Furter and Eric Schrijver, two members of a collective known as "Open Source Publishing" (OSP). They had done two workshops in as many years, one related to using public domain resources, and one related to customizing open source fonts. Crossland's visit seemed like one too many coincidences. I had to dive deeper. These ideas needed a class.
 
@@ -76,7 +76,7 @@ A program is free software if the program's users have the four essential freedo
 A program is free software if it gives users adequately all of these freedoms. Otherwise, it is nonfree. While we can distinguish various nonfree distribution schemes in terms of how far they fall short of being free, we consider them all equally unethical.
 ```
 
-Free software, as defined by Stallman, is ethical. It has a point of view. Its clear about where it stands. Students that were attempting to get a grip on their position as a designer intentionally using design as a political or critical act found something of use here. The software they might use could reflect their ethics too.
+Free software, as defined by Stallman, is ethical. It has a point of view. Its clear about where it stands. Braithwaite and Raymond do not deal with this in their discussion or analysis of "Open Design" and "Open Source" respectively. Students that were attempting to get a grip on their position as a designer intentionally using design as a political or critical act found something of use here that they had not in the other readings and discussion. The software they might use could reflect their ethics.
 
 ## Opposition
 
