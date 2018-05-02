@@ -100,14 +100,12 @@ That F/LOS tools are hard to install and/or hard to use commonly is cited at the
 
 "We need utopian thinking because without it, we are constrained by the tyranny of the possible." -- Stephen Duncombe [Open Fields....]
 
+F/LOS ideals create an oppositional model useful for critiquing our mainstream culture. By choosing to use this surreal set of softwares (Linux, Scribus, etc.) a designer is specifically saying "I am not using the same computer or software as you." and "my computer software has different ethics than yours" This has use as a critique of the status quo.
+
 What do you see out there when you look for open source design? Fonts, Icons, Templates, Frameworks. Is this what F/LOS design means? Is that all that's possible? We should start to see chances for design as a social critique; design that can return to its vernacular roots and not just serve clients or business.
 
-As a course, Special Topics in Graphic Design: Open Source was half seminar and half studio. There was so much ground covered that this paper cannot do it all justice. What the course was most useful for to me was remembering that the way that Open Source software works is not unique to contemporary startup culture -- the things we need as humans have been being made in these ways forever. This means that we as visual designers are not precluded from accessing the techniques and ideas.
+As a course, Special Topics in Graphic Design: Open Source was half seminar and half studio. What the course was most useful for to me was remembering that the way that Open Source software works is not unique to contemporary startup culture -- the things we need as humans have been being made in these ways forever. This means that we as visual designers are not precluded from accessing the techniques and ideas.
 
-As an educator is to help create new knowledge for my discipline. F/LOS allows for this in pragmatic and utopian ways. Its pragmatic in that there are F/LOS tools that do not exist in main stream operating systems nor from Adobe or Autodesk. It is utopian in that the tools themselves can reflect non-traditioanl values and propose alternate fictions or
+As an educator my role is to help create new knowledge for my discipline. F/LOS allows for this in pragmatic and utopian ways. Its pragmatic in that there are F/LOS tools that do not exist in main stream operating systems nor from Adobe or Autodesk (the Spiro tool in InkScape for example, or NodeBox or Processing). It is utopian in that the tools themselves can reflect non-traditional values and propose alternate fictions or expand what is understood as possible or "standard."
 
-An advanatage to F/LOS tools is that since they use file types that are built on open standards, they can easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy.
-
-F/LOS ideals create an oppositional model useful for critiquing our mainstream culture. By choosing to use this surreal set of softwares (linux, scribus etc.) a designer is specifically saying "I am not using the same computer or software as you." and "my computer software has different ethics than yours" This has use as a critique of the status quo.
-
-Is it important that the source is shareable or is it important that the spirit is embraced?
+Another pedagogical advantage to F/LOS is that the file types are open standards. This means files can easily be tracked and shared with tools that make a workflow of collaborating, sharing, etc. easy. It also relinquishes one from the tyranny of tools. One can focus on designing over application learning.
