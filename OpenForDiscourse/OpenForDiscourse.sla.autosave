@@ -108,24 +108,15 @@
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="533.0008" YPOS="595.0016" WIDTH="537.0008" HEIGHT="538.9984" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="White" TXTFEATURES="inherit" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 537.001 0 537.001 0 537.001 0 537.001 0 537.001 538.998 537.001 538.998 537.001 538.998 537.001 538.998 0 538.998 0 538.998 0 538.998 0 538.998 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 537.001 0 537.001 0 537.001 0 537.001 0 537.001 538.998 537.001 538.998 537.001 538.998 537.001 538.998 0 538.998 0 538.998 0 538.998 0 538.998 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" CH="A"/>
             <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-6" CH="g"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-9" CH="o"/>
+            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-7" CH="o"/>
             <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-5" CH="r"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FCOLOR="White" KERN="-16" CH="a"/>
-            <ITEXT CH="       "/>
-            <tab/>
-            <ITEXT CH="                    "/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FCOLOR="White" CH=":"/>
+            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-12" CH="a"/>
             <para LINESP="84"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-12" CH=" M"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-7" CH="a"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-8" CH="ki"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-7" CH="n"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-8" CH="g"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-12" CH=" Sa"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-8" CH="l"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-7" CH="a"/>
-            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-9" CH="d"/>
-            <tab FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit outline" FCOLOR="None" SCOLOR="White" KERN="-12"/>
+            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-12" CH="M"/>
+            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-9" CH="a"/>
+            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-10" CH="k"/>
+            <ITEXT FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-12" CH="ing Salad"/>
+            <tab FONT="Ptah Regular" FONTSIZE="113" FEATURES="inherit" FCOLOR="White" KERN="-12"/>
             <para LINESP="84"/>
             <ITEXT CH="Making Salad"/>
             <trail LINESP="84"/>
